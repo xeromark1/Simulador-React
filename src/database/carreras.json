@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "INGENIERÍA CIVIL EN INFORMÁTICA Y TELECOMUNICACIONES",
+      "facultad_id": 7
+    },
+    {
+      "id": 2,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "INGENIERÍA CIVIL EN OBRAS CIVILES",
+      "facultad_id": 7
+    },
+    {
+      "id": 3,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "INGENIERÍA CIVIL INDUSTRIAL",
+      "facultad_id": 7
+    },
+    {
+      "id": 4,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "MEDICINA",
+      "facultad_id": 8
+    },
+    {
+      "id": 5,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "PSICOLOGÍA",
+      "facultad_id": 9
+    },
+    {
+      "id": 6,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "DERECHO",
+      "facultad_id": 5
+    },
+    {
+      "id": 7,
+      "fecha_oferta": "2022-07-20T04:00:00.000Z",
+      "nombre_carrera": "ENFERMERÍA",
+      "facultad_id": 10
+    }
+  ]
