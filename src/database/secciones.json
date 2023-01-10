@@ -1,0 +1,6509 @@
+[
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC01",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC01",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC01",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC10",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BARTOLO LEONARDO MAURICIO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC10",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BARTOLO LEONARDO MAURICIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC10",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC11",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "B-LEARNING HORARIO BLOQUEADO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC11",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC11",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC12",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC12",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC12",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "B-LEARNING HORARIO BLOQUEADO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC02",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC02",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC02",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC03",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC03",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC03",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC04",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC04",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC04",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC05",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC05",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "EREMEEV VITALIE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC05",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC06",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC06",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "EREMEEV VITALIE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC06",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC07",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC07",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC07",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC08",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC08",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC08",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC09",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BARTOLO LEONARDO MAURICIO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC09",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "BARTOLO LEONARDO MAURICIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1000",
+      "codigo": "CBF1000_VC09",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "MECANICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC01",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC01",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "EREMEEV VITALIE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC01",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC10",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC10",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC10",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC11",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC11",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC11",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC12",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC12",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC12",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC13",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC13",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC13",
+      "dia": "MA",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC14",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC14",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC14",
+      "dia": "MA",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC15",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC15",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC15",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC16",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC16",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC16",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "PAREDES DANIELA VICTORIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC02",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "BRIZUELA JESSICA",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC02",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC02",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "EREMEEV VITALIE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC03",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC03",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC03",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC04",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC04",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC04",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC05",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC05",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "LEON ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC05",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC06",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC06",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "LEON ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC06",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC07",
+      "dia": "JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC07",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC07",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC08",
+      "dia": "JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC08",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC08",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC09",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC09",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1001",
+      "codigo": "CBF1001_VC09",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALOR Y ONDAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC01",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "RIVERA JOSE RICARDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC01",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "RIVERA JOSE RICARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC01",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC10",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC10",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC10",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC11",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC11",
+      "dia": "MA",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC11",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC12",
+      "dia": "MA",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC12",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC12",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC02",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "RIVERA JOSE RICARDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC02",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC02",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "RIVERA JOSE RICARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC03",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC03",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC03",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC04",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC04",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC04",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC05",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC05",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "LEON ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC05",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC06",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC06",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "LEON ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC06",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC07",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC07",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC07",
+      "dia": "LU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC08",
+      "dia": "LU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC08",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC08",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "VILLAGRAN SIDNEY HERNAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC09",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC09",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "OLIVARES MARCO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBF1002",
+      "codigo": "CBF1002_VC09",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC01",
+      "dia": "LU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC01",
+      "dia": "MA JU VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "LOPEZ MARIA GABRIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC10",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "BRAYOVIC BORIS ALEXANDER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC10",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC11",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "LOPEZ MARIA GABRIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC11",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC12",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "RIVERO ROSA ELVIRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC12",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC13",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "LANDERO CARLOS GABRIEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC13",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC14",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC14",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC15",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC15",
+      "dia": "LU MA JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "MOZ JUAN ESTEBAN EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC16",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC16",
+      "dia": "LU MA JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC17",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC17",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "CASTILLO BARBARA CONSTANZA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC18",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC18",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC19",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC19",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC01",
+      "dia": "LU MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "ROSSEL JUAN BAUDILIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC01",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC03",
+      "dia": "LU MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "RIVERO ROSA ELVIRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC03",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC04",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "LANDERO CARLOS GABRIEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC04",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC05",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC05",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "CASADO ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC06",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC06",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "MATURANA HUGO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC07",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC07",
+      "dia": "LU JU VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "MARTI EMILIO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC08",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "CASADO ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC08",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC09",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "BRAYOVIC BORIS ALEXANDER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1000",
+      "codigo": "CBM1000_VC09",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA Y GEOMETRIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC01",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC01",
+      "dia": "MA JU VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "LOPEZ MARIA GABRIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC10",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "SAAVEDRA IGNACIO EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC10",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC11",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "MOZ JUAN ESTEBAN EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC11",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC12",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC12",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "BRAYOVIC BORIS ALEXANDER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC13",
+      "dia": "LU MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "ARANCIBIA SARA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC13",
+      "dia": "VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC14",
+      "dia": "VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC14",
+      "dia": "LU MI JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC15",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC15",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "RIVERO ROSA ELVIRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC16",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC16",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "ZIGA FERNANDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC17",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC17",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "SAAVEDRA IGNACIO EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC18",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NEIRA TOMAS ALFONSO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC18",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC19",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "ZIGA FERNANDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC19",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC02",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "ROSSEL JUAN BAUDILIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC02",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC03",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "RIVERO ROSA ELVIRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC03",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC04",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC04",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "LANDERO CARLOS GABRIEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC05",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "ARANCIBIA SARA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC05",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC06",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC06",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "MATURANA HUGO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC07",
+      "dia": "LU MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "CASADO ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC07",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC08",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC08",
+      "dia": "LU MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "MATURANA HUGO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC09",
+      "dia": "LU MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1001",
+      "codigo": "CBM1001_VC09",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC01",
+      "dia": "LU MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "CASADO ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC01",
+      "dia": "VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC02",
+      "dia": "MA JU VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "LOPEZ MARIA GABRIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC02",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC03",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "ROSSEL JUAN BAUDILIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC03",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC04",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "CONTRERAS JAIME GILBERTO",
+      "descripcion": "B-LEARNING HORARIO BLOQUEADO"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC04",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC06",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1002",
+      "codigo": "CBM1002_VC06",
+      "dia": "LU MA JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ALGEBRA LINEAL",
+      "nombre": "SAAVEDRA IGNACIO EDUARDO",
+      "descripcion": "B-LEARNING HORARIO BLOQUEADO"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC01",
+      "dia": "LU MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "LANDERO CARLOS GABRIEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC01",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC02",
+      "dia": "LU MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "MARTI EMILIO ANDRES",
+      "descripcion": "B-LEARNING HORARIO BLOQUEADO"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC02",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC03",
+      "dia": "LU JU VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "MARTI EMILIO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC03",
+      "dia": "MA",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC06",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC06",
+      "dia": "LU MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "ROSSEL JUAN BAUDILIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC07",
+      "dia": "LU MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "BRAYOVIC BORIS ALEXANDER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC07",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC08",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "RIVERO ROSA ELVIRA",
+      "descripcion": "B-LEARNING HORARIO BLOQUEADO"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC08",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC09",
+      "dia": "LU MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "SAAVEDRA IGNACIO EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1003",
+      "codigo": "CBM1003_VC09",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC01",
+      "dia": "VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC01",
+      "dia": "MA MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "SAAVEDRA IGNACIO EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC02",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "LANDERO CARLOS GABRIEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC02",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC03",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "MOZ JUAN ESTEBAN EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC03",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC04",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "LOPEZ JULIO CESAR",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC04",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC05",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "CONTRERAS JAIME GILBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC05",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC06",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "LOPEZ MARIA GABRIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC06",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC07",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC07",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "LOPEZ JULIO CESAR",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC08",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "MARTI EMILIO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1005",
+      "codigo": "CBM1005_VC08",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ECUACIONES DIFERENCIALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "BRAYOVIC BORIS ALEXANDER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC01",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC02",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "ROSSEL JUAN BAUDILIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC02",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC03",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC03",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC04",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC04",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "MARECHAL MATTHIEU PHILIPPE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC05",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "CONTRERAS JAIME GILBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC05",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC06",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "MOZ JUAN ESTEBAN EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC06",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC07",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "MARECHAL MATTHIEU PHILIPPE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC07",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC08",
+      "dia": "LU VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "MARTI EMILIO ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC08",
+      "dia": "JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC09",
+      "dia": "LU VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "MATURANA HUGO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBM1006",
+      "codigo": "CBM1006_VC09",
+      "dia": "JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CALCULO III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC01",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC01",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC10",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC10",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "REYES NORA LILIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC11",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC11",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "OPAZO EDITH ALEJANDRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC12",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC12",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "SEPULVEDA KAREN CYNTIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC13",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "OPAZO EDITH ALEJANDRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC13",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC14",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "ARIAS MARIA PATRICIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC14",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC15",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "ARIAS MARIA PATRICIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC15",
+      "dia": "JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC16",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "REYES NORA LILIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC16",
+      "dia": "JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC17",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "REYES NORA LILIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC17",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC18",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "OPAZO EDITH ALEJANDRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC18",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC19",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC19",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "SEPULVEDA KAREN CYNTIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC02",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC02",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "SEPULVEDA KAREN CYNTIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC03",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "ARIAS MARIA PATRICIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC03",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC04",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "REYES NORA LILIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC04",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC05",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "OPAZO EDITH ALEJANDRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC05",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC06",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "GACITUA MANUEL ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC06",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC07",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "REYES NORA LILIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC07",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC08",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "OPAZO EDITH ALEJANDRA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC08",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC09",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CBQ1000",
+      "codigo": "CBQ1000_VC09",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "QUIMICA",
+      "nombre": "SEPULVEDA KAREN CYNTIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC01",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "MARTINEZ DAMIAN",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORTES EMA BENITA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "MARTINEZ DAMIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "MARTINEZ DAMIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORTES EMA BENITA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG01",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "MARTINEZ DAMIAN",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC02",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "SAN MARTIN ROSA IRENE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC02",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORDOVA CONSTANZA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC02",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG02",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "SAN MARTIN ROSA IRENE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG02",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORDOVA CONSTANZA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG02",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC03",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORTES EMA BENITA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC03",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "FADEL GIOVANNI",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC03",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "SANTIBEZ OSVALDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG03",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORTES EMA BENITA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG03",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "FADEL GIOVANNI",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_FG03",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "SANTIBEZ OSVALDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC04",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "ORTIZ ROBERTO ENRIQUE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC04",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC05",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC05",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "CORTES EMA BENITA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC06",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "ORTIZ ROBERTO ENRIQUE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC06",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC07",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "SAN MARTIN ROSA IRENE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII1000",
+      "codigo": "CII1000_VC07",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "CONTABILIDAD Y COSTOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2002",
+      "codigo": "CII2002_VC1",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGENIERIA ECONOMICA",
+      "nombre": "FAIVOVICH EDUARDO JAIME",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2002",
+      "codigo": "CII2002_VC1",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGENIERIA ECONOMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2002",
+      "codigo": "CII2002_VC2",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGENIERIA ECONOMICA",
+      "nombre": "FAIVOVICH EDUARDO JAIME",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2002",
+      "codigo": "CII2002_VC2",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGENIERIA ECONOMICA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC1",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "TANIDA MITSUO LUCAS MATI",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC1",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC2",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "JARA FRANCISCO IVAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC2",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC3",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "ZIGA ALVARO SEBASTIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC3",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC4",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "TANIDA MITSUO LUCAS MATI",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC4",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC5",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "MARQUEZ RENNY JAVIER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC5",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC6",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC6",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "MARQUEZ RENNY JAVIER",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC7",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "ZIGA ALVARO SEBASTIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC7",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC8",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "ZIGA ALVARO SEBASTIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2750",
+      "codigo": "CII2750_VC8",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "OPTIMIZACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA01",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "ALVAREZ ESTEBAN AUGUSTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA01",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA10",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "MOZ RODRIGO EUGENIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA10",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA11",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA11",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA12",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "DUARTE JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA12",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA13",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA13",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA14",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA14",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA15",
+      "dia": "MA",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA15",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "DUARTE JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA16",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA16",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA17",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "ALBA MANUEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA17",
+      "dia": "MA",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA02",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA02",
+      "dia": "JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA03",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA03",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA04",
+      "dia": "VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA04",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "MOZ RODRIGO EUGENIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA05",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA05",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA06",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "DUARTE JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA06",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA07",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA07",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA08",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "DUARTE JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA08",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA09",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1000",
+      "codigo": "CIT1000_CA09",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROGRAMACION",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1010",
+      "codigo": "CIT1010_CA01",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "PROGRAMACION AVANZADA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1010",
+      "codigo": "CIT1010_CA01",
+      "dia": "JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "PROGRAMACION AVANZADA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1010",
+      "codigo": "CIT1010_VC02",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION AVANZADA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1010",
+      "codigo": "CIT1010_VC02",
+      "dia": "JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROGRAMACION AVANZADA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT1010",
+      "codigo": "CIT1010_CA04",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PROGRAMACION AVANZADA",
+      "nombre": "LLANZA LEANDRO ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT1010",
+      "codigo": "CIT1010_CA04",
+      "dia": "MA",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PROGRAMACION AVANZADA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3325",
+      "codigo": "CIT3325_CA01",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INTELIGENCIA DE NEGOCIOS",
+      "nombre": "DUARTE JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3416",
+      "codigo": "CIT3416_CA01",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROCESAMIENTO DIGITAL DE SALES",
+      "nombre": "DUJOVNE DIEGO ROBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3420",
+      "codigo": "CIT3420_CA01",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "REDES OPTICAS DE DATOS",
+      "nombre": "CARVAJAL ROBERTO CARLOS",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3423",
+      "codigo": "CIT3423_CA01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "TELEVISION DIGITAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4011",
+      "codigo": "CIT4011_CA01",
+      "dia": "VI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION EXAMEN DE TITULO",
+      "nombre": "GEOFFROY XIMENA MARIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4011",
+      "codigo": "CIT4011_CA01",
+      "dia": "VI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION EXAMEN DE TITULO",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4012",
+      "codigo": "CIT4012_CA01",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION MEMORIA",
+      "nombre": "GEOFFROY XIMENA MARIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4012",
+      "codigo": "CIT4012_CA01",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION MEMORIA",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4012",
+      "codigo": "CIT4012_CA01",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION MEMORIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4013",
+      "codigo": "CIT4013_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION TALLER PROFESIONAL",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4013",
+      "codigo": "CIT4013_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION TALLER PROFESIONAL",
+      "nombre": "GEOFFROY XIMENA MARIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT4014",
+      "codigo": "CIT4014_CA01",
+      "dia": "LU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION PAPER",
+      "nombre": "GEOFFROY XIMENA MARIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT5001",
+      "codigo": "CIT5001_VC01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PRACTICA PROFESIONAL 1",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "PRACTICA"
+    },
+    {
+      "id": "CIT5002",
+      "codigo": "CIT5002_VC01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PRACTICA PROFESIONAL 2",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "PRACTICA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC1",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC10",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC11",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "CORRAL GABRIELA ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC12",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC13",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "QUEZADA MARIA GRACIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC14",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "AZCO MARIA JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC15",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC16",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC2",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "QUEZADA MARIA GRACIELA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC3",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "CORRAL GABRIELA ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC4",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "AZCO MARIA JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC5",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC6",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "REYES GRACIELA DE LOURDES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC7",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC8",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "CORRAL GABRIELA ANDREA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1000",
+      "codigo": "FIC1000_VC9",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "COMUNICACION PARA LA INGENIERIA",
+      "nombre": "SERVELLO STEPHANIE ISABEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1003",
+      "codigo": "FIC1003_VC1",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "DERECHO EN INGENIERIA",
+      "nombre": "DIAZ JOSE ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "FIC1003",
+      "codigo": "FIC1003_VC2",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "DERECHO EN INGENIERIA",
+      "nombre": "DIAZ JOSE ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "ING9100",
+      "codigo": "ING9100_VC01",
+      "dia": "SA",
+      "hora": "SA 11:30 - 12:50",
+      "nombre_asignatura": "PRACTICA ELECTIVA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "ING9100",
+      "codigo": "ING9100_VC01",
+      "dia": "SA",
+      "hora": "SA 10:00 - 11:20",
+      "nombre_asignatura": "PRACTICA ELECTIVA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "ING9100",
+      "codigo": "ING9100_VC02",
+      "dia": "SA",
+      "hora": "SA 08:30 - 09:50",
+      "nombre_asignatura": "PRACTICA ELECTIVA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "ING9100",
+      "codigo": "ING9100_VC02",
+      "dia": "SA",
+      "hora": "SA 13:00 - 14:20",
+      "nombre_asignatura": "PRACTICA ELECTIVA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "ING9101",
+      "codigo": "ING9101_CA01",
+      "dia": "VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PRACTICAS ELECTIVAS",
+      "nombre": "PALACIOS PABLO GEOVANNY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "ING9101",
+      "codigo": "ING9101_CA02",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PRACTICAS ELECTIVAS",
+      "nombre": "SUCHAN KAROL MARCIN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "ING9101",
+      "codigo": "ING9101_CA03",
+      "dia": "VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PRACTICAS ELECTIVAS",
+      "nombre": "CARRION JAVIER IGNACIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2204",
+      "codigo": "CIT2204_CA01",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROBABILIDADES Y ESTADISTICAS",
+      "nombre": "SCHKOLNIK DEMIAN ALEY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2204",
+      "codigo": "CIT2204_CA01",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "PROBABILIDADES Y ESTADISTICAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2204",
+      "codigo": "CIT2204_CA02",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROBABILIDADES Y ESTADISTICAS",
+      "nombre": "SCHKOLNIK DEMIAN ALEY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2204",
+      "codigo": "CIT2204_CA02",
+      "dia": "JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "PROBABILIDADES Y ESTADISTICAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC01",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "POBLETE JAVIERA FRANCISCA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC10",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC11",
+      "dia": "LU MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC12",
+      "dia": "LU MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC13",
+      "dia": "LU MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "BAMBACH MARIA EUGENIA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC14",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "BAMBACH MARIA EUGENIA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC15",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC16",
+      "dia": "LU MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC17",
+      "dia": "JU LU",
+      "hora": "17:25 - 18:45; 16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "ACA SYLVIA VICTORIA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC18",
+      "dia": "LU VI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "ACA SYLVIA VICTORIA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC19",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC02",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "POBLETE JAVIERA FRANCISCA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC20",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC21",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC22",
+      "dia": "MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC23",
+      "dia": "MI VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC24",
+      "dia": "LU MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC03",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50; 08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "PALOMINOS MARCELA CATALINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC04",
+      "dia": "JU MA",
+      "hora": "11:30 - 12:50; 13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "PALOMINOS MARCELA CATALINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC05",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "PALOMINOS MARCELA CATALINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC06",
+      "dia": "LU MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "PALOMINOS MARCELA CATALINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC07",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "PALOMINOS MARCELA CATALINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC08",
+      "dia": "LU MI",
+      "hora": "18:50 - 20:10",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "MELLA ALEX AGUSTIN",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1002",
+      "codigo": "CIG1002_VC09",
+      "dia": "LU MI",
+      "hora": "20:15 - 21:35",
+      "nombre_asignatura": "INGLES GENERAL II",
+      "nombre": "MELLA ALEX AGUSTIN",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC01",
+      "dia": "MA JU",
+      "hora": "18:50 - 20:10",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MELLA ALEX AGUSTIN",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC10",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ACEITUNO ADOLFO ENRIQUE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC11",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ACEITUNO ADOLFO ENRIQUE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC12",
+      "dia": "MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CONTRERAS EUGENIA BEATRIZ",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC13",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CONTRERAS EUGENIA BEATRIZ",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC14",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CONTRERAS EUGENIA BEATRIZ",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC15",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CONTRERAS EUGENIA BEATRIZ",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC16",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20; 11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ARCE CARLOS ANDRES",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC17",
+      "dia": "MI VI",
+      "hora": "16:00 - 17:20; 13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ARCE CARLOS ANDRES",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC18",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC19",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC02",
+      "dia": "MA JU",
+      "hora": "20:15 - 21:35",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MELLA ALEX AGUSTIN",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC20",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CEA KAREM CAROL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC21",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ARAOS JENNY FABIOLA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC22",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ARAOS JENNY FABIOLA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC23",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ARAOS JENNY FABIOLA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC24",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ARAOS JENNY FABIOLA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC25",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CELIS MARIA PAULINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC26",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "CELIS MARIA PAULINA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC27",
+      "dia": "MI VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC28",
+      "dia": "MI VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC29",
+      "dia": "MI VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC03",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NORAMBUENA CAROLINA ANGELICA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC30",
+      "dia": "MI VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC31",
+      "dia": "MI VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "TORRES OSMAN LUCIANO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC32",
+      "dia": "MI VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "TORRES OSMAN LUCIANO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC04",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NORAMBUENA CAROLINA ANGELICA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC05",
+      "dia": "MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NORAMBUENA CAROLINA ANGELICA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC06",
+      "dia": "MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NORAMBUENA CAROLINA ANGELICA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC07",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ACEITUNO ADOLFO ENRIQUE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC08",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ACEITUNO ADOLFO ENRIQUE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1003",
+      "codigo": "CIG1003_VC09",
+      "dia": "LU MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "ACEITUNO ADOLFO ENRIQUE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIT4015",
+      "codigo": "CIT4015_CA01",
+      "dia": "JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TITULACION VIA MAGISTER",
+      "nombre": "GEOFFROY XIMENA MARIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC01",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SANI QUIRIAN GRISELLI",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC10",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NEGRETE NORMA ENRIQUETA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC11",
+      "dia": "MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SALINAS MARTA AZUCENA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC12",
+      "dia": "MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SALINAS MARTA AZUCENA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "AIG1014_VC13",
+      "dia": "MA JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SALINAS MARTA AZUCENA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC14",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SALINAS MARTA AZUCENA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC15",
+      "dia": "LU MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SALINAS MARTA AZUCENA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC16",
+      "dia": "LU MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SALINAS MARTA AZUCENA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC17",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MOYANO NATALY DEL SOL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC18",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MOYANO NATALY DEL SOL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC19",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MOYANO NATALY DEL SOL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC02",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SANI QUIRIAN GRISELLI",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC20",
+      "dia": "MI VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MOYANO NATALY DEL SOL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC21",
+      "dia": "MI VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MOYANO NATALY DEL SOL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC22",
+      "dia": "MI VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "MOYANO NATALY DEL SOL",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC23",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SCHIAPPACASSE VILMA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC24",
+      "dia": "LU MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SCHIAPPACASSE VILMA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC25",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SCHIAPPACASSE VILMA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC26",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SCHIAPPACASSE VILMA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC27",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SCHIAPPACASSE VILMA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC28",
+      "dia": "MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SCHIAPPACASSE VILMA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC29",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC03",
+      "dia": "LU MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SANI QUIRIAN GRISELLI",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC30",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC31",
+      "dia": "LU MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC32",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC33",
+      "dia": "LU MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC34",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC35",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC36",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC37",
+      "dia": "LU MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC38",
+      "dia": "MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC39",
+      "dia": "MI VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC04",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SANI QUIRIAN GRISELLI",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC40",
+      "dia": "MI VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC41",
+      "dia": "MA JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC44",
+      "dia": "MA JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC45",
+      "dia": "MA JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "RODRIGUEZ KARINA STEPHANIE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC46",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "RODRIGUEZ KARINA STEPHANIE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC47",
+      "dia": "MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "RODRIGUEZ KARINA STEPHANIE",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC48",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "TORRES OSMAN LUCIANO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "AIG1014_VC49",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "TORRES OSMAN LUCIANO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC05",
+      "dia": "MA JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "SANI QUIRIAN GRISELLI",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC50",
+      "dia": "MA JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "TORRES OSMAN LUCIANO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC51",
+      "dia": "MA JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "TORRES OSMAN LUCIANO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC52",
+      "dia": "MI VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC53",
+      "dia": "MI VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC54",
+      "dia": "MI VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC06",
+      "dia": "LU MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NEGRETE NORMA ENRIQUETA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC07",
+      "dia": "LU MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NEGRETE NORMA ENRIQUETA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC08",
+      "dia": "LU MI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NEGRETE NORMA ENRIQUETA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIG1014",
+      "codigo": "CIG1014_VC09",
+      "dia": "LU MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGLES GENERAL III",
+      "nombre": "NEGRETE NORMA ENRIQUETA",
+      "descripcion": "CATEDRA INGLES"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_CA01",
+      "dia": "MA",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_CA01",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "ORTIZ YERKO MIGUEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_CA01",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_CA02",
+      "dia": "JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_CA02",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_CA02",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "RODRIGUEZ MIGUEL ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_VC03",
+      "dia": "VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_VC03",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "SUCHAN KAROL MARCIN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_VC03",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_VC04",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "ORTIZ YERKO MIGUEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_VC04",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2006",
+      "codigo": "CIT2006_VC04",
+      "dia": "JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC01",
+      "dia": "LU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC01",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "DUJOVNE DIEGO ROBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC01",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC02",
+      "dia": "JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC02",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "DUJOVNE DIEGO ROBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC02",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC03",
+      "dia": "JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC03",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NEGRONI JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC03",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC04",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NEGRONI JUAN JOSE",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC04",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2107",
+      "codigo": "CIT2107_VC04",
+      "dia": "LU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ELECTRONICA Y ELECTROTECNIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2007",
+      "codigo": "CIT2007_CA01",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "BASES DE DATOS",
+      "nombre": "BRAVO LEONARDO ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2007",
+      "codigo": "CIT2007_CA01",
+      "dia": "LU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "BASES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2007",
+      "codigo": "CIT2007_CA02",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "BASES DE DATOS",
+      "nombre": "ALBA MANUEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2007",
+      "codigo": "CIT2007_CA02",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "BASES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_VC01",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "CARRION JAVIER IGNACIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_VC01",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_CA02",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "BELLINO ALESSIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "MONCADA NICOLASÂ ALEXANDER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "RIQUELME SEBASTIAN IGNACIO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "VILLAVICENCIO CRISTIAN JAVIER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2008",
+      "codigo": "CIT2008_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "DESARROLLO WEB Y MOVIL",
+      "nombre": "CUITO JONATHAN ALEXANDER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT4000",
+      "codigo": "CIT4000_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PRACTICA I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA01",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "PALACIOS PABLO GEOVANNY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "CONTRERAS MIGUEL ALEJANDRO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA02",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "ALBA MANUEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA02",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "BRIONES JUAN PABLO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA02",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "CONTRERAS MIGUEL ALEJANDRO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA03",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "PALACIOS PABLO GEOVANNY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2108",
+      "codigo": "CIT2108_CA03",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TALLER DE REDES Y SERVICIOS",
+      "nombre": "BRIONES JUAN PABLO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2205",
+      "codigo": "CIT2205_CA01",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROYECTO EN TICS I",
+      "nombre": "ELLIOTT JORGE ERNESTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2205",
+      "codigo": "CIT2205_CA01",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROYECTO EN TICS I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2205",
+      "codigo": "CIT2205_CA02",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "PROYECTO EN TICS I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2205",
+      "codigo": "CIT2205_CA02",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "PROYECTO EN TICS I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2205",
+      "codigo": "CIT2205_VC03",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PROYECTO EN TICS I",
+      "nombre": "ELLIOTT JORGE ERNESTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2205",
+      "codigo": "CIT2205_VC03",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "PROYECTO EN TICS I",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2009",
+      "codigo": "CIT2009_CA01",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "BASES DE DATOS AVANZADAS",
+      "nombre": "GIADACH JUAN RICARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2009",
+      "codigo": "CIT2009_CA01",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "BASES DE DATOS AVANZADAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2009",
+      "codigo": "CIT2009_CA02",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "BASES DE DATOS AVANZADAS",
+      "nombre": "GIADACH JUAN RICARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2009",
+      "codigo": "CIT2009_CA02",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "BASES DE DATOS AVANZADAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM01",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM01",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "SANCHEZ PABLO RAUL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM01",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM02",
+      "dia": "JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM02",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "SANCHEZ PABLO RAUL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM02",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM03",
+      "dia": "JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM03",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "SANCHEZ PABLO RAUL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM03",
+      "dia": "LU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM04",
+      "dia": "JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "TOBAR JORGE ANDRES",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM04",
+      "dia": "MA VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "SANCHEZ PABLO RAUL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2109",
+      "codigo": "CIT2109_CM04",
+      "dia": "LU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC01",
+      "dia": "LU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "ORDENES RODRIGO JAVIER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC01",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC01",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC01",
+      "dia": "LU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC02",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC02",
+      "dia": "LU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC02",
+      "dia": "LU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "ORDENES RODRIGO JAVIER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC02",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC03",
+      "dia": "JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC03",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "VENEGAS LUIS JAVIER",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC03",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC04",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC04",
+      "dia": "JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2110",
+      "codigo": "CIT2110_VC04",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "SALES Y SISTEMAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2010",
+      "codigo": "CIT2010_CA01",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "SISTEMAS OPERATIVOS",
+      "nombre": "REYES VICTOR ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2010",
+      "codigo": "CIT2010_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SISTEMAS OPERATIVOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2206",
+      "codigo": "CIT2203_CA01",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "GESTION ORGANIZACIONAL",
+      "nombre": "GEOFFROY XIMENA MARIA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2206",
+      "codigo": "CIT2203_CA01",
+      "dia": "JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "GESTION ORGANIZACIONAL",
+      "nombre": "ESCOBAR PAOLO ANDRES",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2206",
+      "codigo": "CIT2203_CA01",
+      "dia": "JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "GESTION ORGANIZACIONAL",
+      "nombre": "ROMO JAVIER ABRAHAM",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2011",
+      "codigo": "CIT2011_CA01",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "SISTEMAS DISTRIBUIDOS",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2011",
+      "codigo": "CIT2011_CA01",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "SISTEMAS DISTRIBUIDOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2011",
+      "codigo": "CIT2011_CA02",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "SISTEMAS DISTRIBUIDOS",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2011",
+      "codigo": "CIT2011_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "SISTEMAS DISTRIBUIDOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VA01",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VA01",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "GARCIA CARLOS ENRIQUE ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VA01",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "JARUFE IMAN CATALINA",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VA02",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "JARUFE IMAN CATALINA",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VA02",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VA02",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "GARCIA CARLOS ENRIQUE ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VC03",
+      "dia": "LU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "MOZ RODRIGO EUGENIO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VC03",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "JARUFE IMAN CATALINA",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VC03",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "PALACIOS PABLO GEOVANNY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VC04",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "PALACIOS PABLO GEOVANNY",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VC04",
+      "dia": "LU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "JARUFE IMAN CATALINA",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2111",
+      "codigo": "CIT2111_VC04",
+      "dia": "VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "COMUNICACIONES DIGITALES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2012",
+      "codigo": "CIT2012_CA01",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGENIERIA DE SOFTWARE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2012",
+      "codigo": "CIT2012_CA01",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGENIERIA DE SOFTWARE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2012",
+      "codigo": "CIT2012_CA02",
+      "dia": "MA VI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "INGENIERIA DE SOFTWARE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2012",
+      "codigo": "CIT2012_CA02",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INGENIERIA DE SOFTWARE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2010_VC01",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2010_VC01",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "CALCAGNO JAIME ALBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG1",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA CFG"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG1",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC02",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "CALCAGNO JAIME ALBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG2",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA CFG"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG2",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC03",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC03",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "MARKUSOVIC DENIS LENKA",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG3",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA CFG"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG3",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC04",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC04",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "CALCAGNO JAIME ALBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG4",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA CFG"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_FG4",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC05",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "OLIVARES GUILLERMO ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC05",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC06",
+      "dia": "MA VI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "ZIGA EDUARDO ISRAEL",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC06",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC07",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OPCIONAL"
+    },
+    {
+      "id": "CII2100",
+      "codigo": "CII2100_VC07",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INTRODUCCION  A LA ECONOMIA",
+      "nombre": "CALCAGNO JAIME ALBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2112",
+      "codigo": "CIT2112_VC01",
+      "dia": "LU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "TECNOLOGIAS INALAMBRICAS",
+      "nombre": "CARRO ERICK ROBERTO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2112",
+      "codigo": "CIT2112_VC01",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "TECNOLOGIAS INALAMBRICAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2112",
+      "codigo": "CIT2112_VC01",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "TECNOLOGIAS INALAMBRICAS",
+      "nombre": "CARRO ERICK ROBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2112",
+      "codigo": "CIT2112_VC02",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "TECNOLOGIAS INALAMBRICAS",
+      "nombre": "CARRO ERICK ROBERTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2112",
+      "codigo": "CIT2112_VC02",
+      "dia": "VI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "TECNOLOGIAS INALAMBRICAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2112",
+      "codigo": "CIT2112_VC02",
+      "dia": "MI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "TECNOLOGIAS INALAMBRICAS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2113_CM01",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2113_CM01",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2113_CM01",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "BOETTCHER NICOLAS ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2113_CM02",
+      "dia": "MA",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "BEREZIN RONI ALEJANDRO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2113_CM02",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2113_CM02",
+      "dia": "MA VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "BOETTCHER NICOLAS ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM03",
+      "dia": "MA",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM03",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "BOETTCHER NICOLAS ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM03",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "ESPINA BRAYAN ANTONIO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM03",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "VILLAVICENCIO CRISTIAN JAVIER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM04",
+      "dia": "VI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "BEREZIN RONI ALEJANDRO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM04",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "BOETTCHER NICOLAS ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM04",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "VILLAVICENCIO CRISTIAN JAVIER",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2113",
+      "codigo": "CIT2111_CM04",
+      "dia": "MI",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "CRIPTOGRAFIA Y SEGURIDAD EN REDES",
+      "nombre": "ESPINA BRAYAN ANTONIO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2013",
+      "codigo": "CIT2013_CA01",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "INTELIGENCIA ARTIFICIAL",
+      "nombre": "GUTIERREZ MARTIN EDUARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2013",
+      "codigo": "CIT2013_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "INTELIGENCIA ARTIFICIAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2013",
+      "codigo": "CIT2013_CA02",
+      "dia": "LU JU",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTELIGENCIA ARTIFICIAL",
+      "nombre": "REYES VICTOR ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2013",
+      "codigo": "CIT2013_CA02",
+      "dia": "VI",
+      "hora": "08:30 - 09:50",
+      "nombre_asignatura": "INTELIGENCIA ARTIFICIAL",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2207",
+      "codigo": "CIT2207_CA01",
+      "dia": "MA VI",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "EVALUACION DE PROYECTOS TIC",
+      "nombre": "ELLIOTT JORGE ERNESTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2207",
+      "codigo": "CIT2207_CA01",
+      "dia": "MI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "EVALUACION DE PROYECTOS TIC",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2207",
+      "codigo": "CIT2207_CA02",
+      "dia": "LU JU",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "EVALUACION DE PROYECTOS TIC",
+      "nombre": "ELLIOTT JORGE ERNESTO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2207",
+      "codigo": "CIT2207_CA02",
+      "dia": "MA",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "EVALUACION DE PROYECTOS TIC",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT4001",
+      "codigo": "CIT4001_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PRACTICA II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3100",
+      "codigo": "CIT3100_CA01",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "ARQUITECTURAS EMERGENTES",
+      "nombre": "GARCIA CARLOS ENRIQUE ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3100",
+      "codigo": "CIT3100_CA01",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ARQUITECTURAS EMERGENTES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3100",
+      "codigo": "CIT3100_CA02",
+      "dia": "MI",
+      "hora": "10:00 - 11:20",
+      "nombre_asignatura": "ARQUITECTURAS EMERGENTES",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3100",
+      "codigo": "CIT3100_CA02",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ARQUITECTURAS EMERGENTES",
+      "nombre": "GARCIA CARLOS ENRIQUE ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3000",
+      "codigo": "CIT3000_CA01",
+      "dia": "MA VI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "ARQUITECTURA DE SOFTWARE",
+      "nombre": "GIADACH JUAN RICARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3000",
+      "codigo": "CIT3000_CA01",
+      "dia": "JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ARQUITECTURA DE SOFTWARE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3000",
+      "codigo": "CIT300_VC02",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ARQUITECTURA DE SOFTWARE",
+      "nombre": "GIADACH JUAN RICARDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3000",
+      "codigo": "CIT300_VC02",
+      "dia": "JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "ARQUITECTURA DE SOFTWARE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3202",
+      "codigo": "CIT3202_CA01",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "DATA SCIENCE",
+      "nombre": "SUCHAN KAROL MARCIN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3202",
+      "codigo": "CIT3202_CA01",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "DATA SCIENCE",
+      "nombre": "FUENTES TOMAS",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3202",
+      "codigo": "CIT3202_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "DATA SCIENCE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3202",
+      "codigo": "CIT3202_CA02",
+      "dia": "LU JU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "DATA SCIENCE",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3203",
+      "codigo": "CIT3203_CA01",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PROYECTO EN TICS II",
+      "nombre": "LLANZA LEANDRO ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3203",
+      "codigo": "CIT3203_CA01",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PROYECTO EN TICS II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3203",
+      "codigo": "CIT3203_CA02",
+      "dia": "MA VI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PROYECTO EN TICS II",
+      "nombre": "LLANZA LEANDRO ANTONIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3203",
+      "codigo": "CIT3203_CA02",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "PROYECTO EN TICS II",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC01",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC01",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC01",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC02",
+      "dia": "LU JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "HIDALGO NICOLAS ANDRES",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC02",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC02",
+      "dia": "LU",
+      "hora": "13:00 - 14:20",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC03",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "MOZ RODRIGO EUGENIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC03",
+      "dia": "MI",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC03",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC04",
+      "dia": "LU JU",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "MOZ RODRIGO EUGENIO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC04",
+      "dia": "MA",
+      "hora": "17:25 - 18:45",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC04",
+      "dia": "LU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC05",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC05",
+      "dia": "VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC05",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC06",
+      "dia": "LU JU",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC06",
+      "dia": "MA",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "LABORATORIO"
+    },
+    {
+      "id": "CIT2114",
+      "codigo": "CIT2114_VC06",
+      "dia": "MI",
+      "hora": "16:00 - 17:20",
+      "nombre_asignatura": "REDES DE DATOS",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3433",
+      "codigo": "CIT3433_CA01",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "INTEROPERABILIDAD Y SIST DE TELEC",
+      "nombre": "AHUMADA LUCIANO SEBASTIAN",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3433",
+      "codigo": "CIT3433_CA01",
+      "dia": "JU",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "INTEROPERABILIDAD Y SIST DE TELEC",
+      "nombre": "NO DEFINIDO",
+      "descripcion": "AYUDANTIA OBLIGATORIA"
+    },
+    {
+      "id": "CIT3352",
+      "codigo": "CIT3352_CA01",
+      "dia": "MA VI",
+      "hora": "14:30 - 15:50",
+      "nombre_asignatura": "ALGORITMOS EXACTOS Y METAHEURISTICAS",
+      "nombre": "REYES VICTOR ALEJANDRO",
+      "descripcion": "CATEDRA"
+    },
+    {
+      "id": "CIT3353",
+      "codigo": "CIT3353_CA01",
+      "dia": "LU JU",
+      "hora": "11:30 - 12:50",
+      "nombre_asignatura": "SIMULACION Y BIOLOGIA PROGRAMABLE",
+      "nombre": "GUTIERREZ MARTIN EDUARDO",
+      "descripcion": "CATEDRA"
+    }
+  ] 
