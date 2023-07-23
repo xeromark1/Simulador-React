@@ -40,7 +40,7 @@ function getHoras(horas){
 
     var numero_hora = [];         // variable auxiliar para recoger el numero del dia
 
-    if(horas != "NO DEFINIDO" && dias != ""){
+    if(horas != "NO DEFINIDO" && horas  != ""){
         var aux = horas.split('-');
     
         var bloque = [
