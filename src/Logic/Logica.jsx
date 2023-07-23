@@ -4,7 +4,7 @@ import secciones from "../database/secciones.json";
 
 localStorage.clear();
 sessionStorage.clear();
-
+//
 
 function getDias(dias){ //esta funcion debe devolver los dias convertidos en numeros para ser puestos en los dias
 
