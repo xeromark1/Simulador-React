@@ -10,7 +10,7 @@ function getDias(dias){ //esta funcion debe devolver los dias convertidos en num
 
     var numero_dia = [];         // variable auxiliar para recoger el numero del dia
 
-    if(dias != "NO DEFINIDO"){
+    if(dias != "NO DEFINIDO" && dias != ""){
         
             var aux = dias.split(' ');
 
