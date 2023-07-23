@@ -94,11 +94,9 @@ function ModificateTable(evento){
 
     if(dias.length ==0){
         //alert("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.");
-        console.log("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.");
     }
     if(hora.length ==0){
         //alert("ADVERTENCIA " + evento.descripcion + " NO tiene horas definidas aun... Consulte secretaria de estudios.");
-        console.log("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.");
 
     }
 
