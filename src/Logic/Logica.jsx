@@ -40,7 +40,7 @@ function getHoras(horas){
 
     var numero_hora = [];         // variable auxiliar para recoger el numero del dia
 
-    if(horas != "NO DEFINIDO"){
+    if(horas != "NO DEFINIDO" && dias != ""){
         var aux = horas.split('-');
     
         var bloque = [
@@ -93,10 +93,13 @@ function ModificateTable(evento){
     //Definimos si la hora o el dai esta definido, sino se lanzara un ALERT en la pagina
 
     if(dias.length ==0){
-        alert("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.");
+        //alert("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.");
+        console.log("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.")
     }
     if(hora.length ==0){
-        alert("ADVERTENCIA " + evento.descripcion + " NO tiene horas definidas aun... Consulte secretaria de estudios.");
+        //alert("ADVERTENCIA " + evento.descripcion + " NO tiene horas definidas aun... Consulte secretaria de estudios.");
+        console.log("ADVERTENCIA " + evento.descripcion + " NO tiene dias definidos aun... Consulte secretaria de estudios.")
+
     }
 
     ///////////////////////////////////////////////////////////////////////////////
