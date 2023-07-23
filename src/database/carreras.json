@@ -2,7 +2,8 @@
     {
       "id": 1,
       "fecha_oferta": "2022-07-20T04:00:00.000Z",
-      "nombre_carrera": "INGENIERIA CIVIL EN INFORMATICA Y TELECOMUNICACIONES",
-      "facultad_id": 7
+      "nombre_carrera": "PSICOLOGIA",
+      "facultad_id": 7,
+        "save": "INGENIERIA CIVIL EN INFORMATICA Y TELECOMUNICACIONES"
     }
   ]
