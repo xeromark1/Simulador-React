@@ -1,64 +1,114 @@
 [
-
-{"id": "PSI4114", "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES"},
-{"id": "PSI4121", "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A"},
-{"id": "PSI4122", "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A"},
-{"id": "PSI4123", "nombre_asignatura": "PROCESOS PSICOL?GICOS"},
-{"id": "PSI4124", "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A"},
-{"id": "PSI4125", "nombre_asignatura": "ESTAD?STICA"},
-{"id": "PSI4211", "nombre_asignatura": "PSICOLOG?A DE LA INFANCIA"},
-{"id": "PSI4212", "nombre_asignatura": "PSICOLOG?A DE LA ADOLESCENCIA Y JUVENTUD"},
-{"id": "PSI4213", "nombre_asignatura": "PSICOLOG?A DE LA COMUNICACI?N"},
-{"id": "PSI4214", "nombre_asignatura": "PSICOLOG?A SOCIAL 1"},
-{"id": "PSI4216", "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD"},
-{"id": "PSI4221", "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A"},
-{"id": "PSI4222", "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA"},
-{"id": "PSI4223", "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD"},
-{"id": "PSI4225", "nombre_asignatura": "INVESTIGACI?N II"},
-{"id": "PSI4311", "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A DE NI?OS"},
-{"id": "PSI4313", "nombre_asignatura": "INTRODUCCI?N AL PSICODIAGN?STICO"},
-{"id": "PSI4314", "nombre_asignatura": "PSICOLOG?A TRABAJO Y ORGANIZACIONES"},
-{"id": "PSI4321", "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS"},
-{"id": "PSI4323", "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES"},
-{"id": "PSI4324", "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N"},
-{"id": "PSI4325", "nombre_asignatura": "INVESTIGACI?N IV"},
-{"id": "PSI4326", "nombre_asignatura": "PERSPECTIVAS EN PSICOAN?LISIS"},
-{"id": "PSI4327", "nombre_asignatura": "PERSPECTIVAS EN HUMANISMO"},
-{"id": "PSI4328", "nombre_asignatura": "PERSPECTIVAS SIST?MICO"},
-{"id": "PSI4329", "nombre_asignatura": "PERSPECTIVAS COGNITIVO"},
-{"id": "PSI4411", "nombre_asignatura": "PSICOLOG?A Y SALUD"},
-{"id": "PSI4412", "nombre_asignatura": "PSICOLOG?A JUSTICIA"},
-{"id": "PSI4413", "nombre_asignatura": "PSICODIAGN?STICO ADULTOS"},
-{"id": "PSI4414", "nombre_asignatura": "PSICOLOG?A Y SUJETOS SOCIALES"},
-{"id": "PSI4423", "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE"},
-{"id": "PSI4425", "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS"},
-{"id": "PSI4426", "nombre_asignatura": "OPTATIVO PSICOSOCIAL: SUJETOS SOCIALES"},
-{"id": "PSI4427", "nombre_asignatura": "OPTATIVO PSICOSOCIAL: EDUCACI?N"},
-{"id": "PSI4428", "nombre_asignatura": "OPTATIVO  PSICOSOCIAL: SALUD"},
-{"id": "PSI4429", "nombre_asignatura": "OPTATIVO PSICOSOCIAL: TRABAJO"},
-{"id": "PSI4430", "nombre_asignatura": "OPTATIVO PSICOSOCIAL: JUSTICIA"},
-{"id": "PSI4431", "nombre_asignatura": "INTERVENCI?N CL?NICA: PSICOAN?LISIS"},
-{"id": "PSI4432", "nombre_asignatura": "INTERVENCI?N CL?NICA: HUMANISMO"},
-{"id": "PSI4433", "nombre_asignatura": "INTERVENCI?N CL?NICA: SIST?MICO"},
-{"id": "PSI4434", "nombre_asignatura": "INTERVENCI?N CL?NICA: COGNITIVO"},
-{"id": "PSI4435", "nombre_asignatura": "INTERVENCI?N CL?NICA: INFANTIL"},
-{"id": "PSI4521", "nombre_asignatura": "PR?CTICA PROFESIONAL"},
-{"id": "PSI4522", "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL"},
-{"id": "PSI9526", "nombre_asignatura": "PR?CTICA ELECTIVA"},
-{"id": "PSI4530", "nombre_asignatura": "RECLUTAMIENTO Y SELECCI?N"},
-{"id": "CIG1002", "nombre_asignatura": "INGL?S GENERAL II"},
-{"id": "CIG1003", "nombre_asignatura": "INGL?S GENERAL III"},
-{"id": "PSI4542", "nombre_asignatura": "INTERVENCI?N EN CRISIS Y SUICIDIO"},
-{"id": "CIG1014", "nombre_asignatura": "INGL?S GENERAL III"},
-{"id": "PSI4544", "nombre_asignatura": "LA ENTREVISTA PERICIAL"},
-{"id": "PSI4545", "nombre_asignatura": "INTERVENCI?N COMUNITARIA"},
-{"id": "PSI4547", "nombre_asignatura": "INTERVENCI?N GRUPAL CON NI?OS Y ADOLESCE"},
-{"id": "PSI4549", "nombre_asignatura": "G?NERO Y SEXUALIDADES"},
-{"id": "PSI4117", "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG"},
-{"id": "PSI4436", "nombre_asignatura": "INTERV. CLINICA: NEUROPSICOLOG?A CL?NICA"}
-
-
+  {
+    "id": "ENF2035",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO"
+  },
+  {
+    "id": "ENF2037",
+    "nombre_asignatura": "INTERNADO COMUNITARIO"
+  },
+  {
+    "id": "ENF2038",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II"
+  },
+  {
+    "id": "ENF9001",
+    "nombre_asignatura": "ONCOLOG?A"
+  },
+  {
+    "id": "ENF9009",
+    "nombre_asignatura": "SALUD OCUPACIONAL"
+  },
+  {
+    "id": "CIG1002",
+    "nombre_asignatura": "INGL?S GENERAL II"
+  },
+  {
+    "id": "CIG1003",
+    "nombre_asignatura": "INGL?S GENERAL III"
+  },
+  {
+    "id": "CIG1014",
+    "nombre_asignatura": "INGL?S GENERAL III"
+  },
+  {
+    "id": "FSO9100",
+    "nombre_asignatura": "PR?CTICA ELECTIVA"
+  },
+  {
+    "id": "ENF3005",
+    "nombre_asignatura": "BIOQU?MICA"
+  },
+  {
+    "id": "ENF3006",
+    "nombre_asignatura": "MORFOFUNCI?N I"
+  },
+  {
+    "id": "ENF3007",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II"
+  },
+  {
+    "id": "ENF3008",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD"
+  },
+  {
+    "id": "ENF3013",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A"
+  },
+  {
+    "id": "ENF3014",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A"
+  },
+  {
+    "id": "ENF3015",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II"
+  },
+  {
+    "id": "ENF3016",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL"
+  },
+  {
+    "id": "ENF3017",
+    "nombre_asignatura": "BIOESTAD?STICA"
+  },
+  {
+    "id": "ENF3022",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I"
+  },
+  {
+    "id": "ENF3023",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A"
+  },
+  {
+    "id": "ENF3024",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA"
+  },
+  {
+    "id": "ENF3025",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A"
+  },
+  {
+    "id": "ENF3029",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP."
+  },
+  {
+    "id": "ENF3030",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS"
+  },
+  {
+    "id": "ENF3031",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II"
+  },
+  {
+    "id": "ENF3032",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA"
+  },
+  {
+    "id": "ENF9012",
+    "nombre_asignatura": "ENFERMER?A EN SALUD DIGITAL"
+  },
+  {
+    "id": "ENF9011",
+    "nombre_asignatura": "CUIDADOS PALIATIVOS Y FIN DE LA VIDA"
+  }
 ]
-
-
-
