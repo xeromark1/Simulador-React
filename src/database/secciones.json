@@ -1,3261 +1,327 @@
 [
   {
-    "id": "PSI4114",
-    "codigo": "PSI4114_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "UBILLA LORENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "BARRERA WLADIMIR ALEXANDER",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_FG01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "UBILLA LORENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_FG01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "BARRERA WLADIMIR ALEXANDER",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_VC02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "UBILLA LORENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_VC02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "BARRERA WLADIMIR ALEXANDER",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_FG02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "UBILLA LORENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_FG02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "BARRERA WLADIMIR ALEXANDER",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4114",
-    "codigo": "PSI4114_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "TRANSFORMACIONES SOCIOCULTURALES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "VIVALLO BENJAM?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "KAULINO ADRIANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "VIVALLO BENJAM?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_FG01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "KAULINO ADRIANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_VC02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "KAULINO ADRIANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "RUBIO LUNA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "RUBIO LUNA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4121",
-    "codigo": "PSI4121_FG02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "HISTORIA DE LA PSICOLOG?A",
-    "nombre": "KAULINO ADRIANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "PARADA FRANCISCO JAVIER",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "MATTOLI JOSEFINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "MATTOLI JOSEFINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "PARADA FRANCISCO JAVIER",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANTIA OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC02",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "PARADA FRANCISCO JAVIER",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG02",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "PARADA FRANCISCO JAVIER",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANTIA OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC03",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "KAUSEL LEONIE MARGARITA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG03",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "KAUSEL LEONIE MARGARITA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC04",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "KAUSEL LEONIE MARGARITA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "ARAVENA JUAN LUCAS",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG04",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "KAUSEL LEONIE MARGARITA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "ARAVENA JUAN LUCAS",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC05",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "KAUSEL LEONIE MARGARITA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG05",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4122",
-    "codigo": "PSI4122_FG05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "NEUROCIENCIAS Y PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC01",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LAVANDERO NELSON ALEX",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "TRIVI?O ISIDORA VALENTINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG01",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LAVANDERO NELSON ALEX",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "TRIVI?O ISIDORA VALENTINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB01",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LAVANDERO NELSON ALEX",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "TRIVI?O ISIDORA VALENTINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LABRA PALOMA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "SALINAS FERNANDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "SALINAS FERNANDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LABRA PALOMA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LABRA PALOMA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "SALINAS FERNANDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC03",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LAVANDERO NELSON ALEX",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG03",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LAVANDERO NELSON ALEX",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB03",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LAVANDERO NELSON ALEX",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC04",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LABRA PALOMA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "ARCOS KAREN DENISSE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB04",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LABRA PALOMA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "ARCOS KAREN DENISSE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG04",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "LABRA PALOMA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "ARCOS KAREN DENISSE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC05",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "GARREAUD ANA MARIA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG05",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "GARREAUD ANA MARIA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_FG05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4123",
-    "codigo": "PSI4123_VB05",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PROCESOS PSICOL?GICOS",
-    "nombre": "GARREAUD ANA MARIA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VC01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "BUSTA CRISTIAN ANDR?S",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VB01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "BUSTA CRISTIAN ANDR?S",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VB01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_FG01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "BUSTA CRISTIAN ANDR?S",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VC02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "JIMENEZ ALVARO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VB02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "JIMENEZ ALVARO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VB02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_FG02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "JIMENEZ ALVARO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VC03",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "JIMENEZ ALVARO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VB03",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "JIMENEZ ALVARO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_VB03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_FG03",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "JIMENEZ ALVARO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4124",
-    "codigo": "PSI4124_FG03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "AN?LISIS CR?TICO DE LA PSICOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4125",
-    "codigo": "PSI4125_VC01",
-    "dia": "MA",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "ESTAD?STICA",
-    "nombre": "RUBIO ANDR?S ANTONIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4125",
-    "codigo": "PSI4125_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "ESTAD?STICA",
-    "nombre": "SANCHEZ BENJAMIN JOSE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4125",
-    "codigo": "PSI4125_VC02",
-    "dia": "JU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "ESTAD?STICA",
-    "nombre": "REYES GABRIEL EDUARDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4125",
-    "codigo": "PSI4125_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "ESTAD?STICA",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4125",
-    "codigo": "PSI4125_VC03",
-    "dia": "MI",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "ESTAD?STICA",
-    "nombre": "REYES GABRIEL EDUARDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4125",
-    "codigo": "PSI4125_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "ESTAD?STICA",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4211",
-    "codigo": "PSI4211_VC01",
-    "dia": "JU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "PSICOLOG?A DE LA INFANCIA",
-    "nombre": "PAGANINI ALBANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4211",
-    "codigo": "PSI4211_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA INFANCIA",
-    "nombre": "VIVALLO BENJAM?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4211",
-    "codigo": "PSI4211_FG01",
-    "dia": "JU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "PSICOLOG?A DE LA INFANCIA",
-    "nombre": "PAGANINI ALBANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4211",
-    "codigo": "PSI4211_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA INFANCIA",
-    "nombre": "VIVALLO BENJAM?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4212",
-    "codigo": "PSI4212_VC01",
-    "dia": "JU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "PSICOLOG?A DE LA ADOLESCENCIA Y JUVENTUD",
-    "nombre": "POZO EDUARDO ANDRES",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4212",
-    "codigo": "PSI4212_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA ADOLESCENCIA Y JUVENTUD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4212",
-    "codigo": "PSI4212_FG01",
-    "dia": "JU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "PSICOLOG?A DE LA ADOLESCENCIA Y JUVENTUD",
-    "nombre": "POZO EDUARDO ANDRES",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4212",
-    "codigo": "PSI4212_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA ADOLESCENCIA Y JUVENTUD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4213",
-    "codigo": "PSI4213_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA COMUNICACI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4213",
-    "codigo": "PSI4213_VC01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A DE LA COMUNICACI?N",
-    "nombre": "LAGOS DANIELA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4213",
-    "codigo": "PSI4213_FG01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A DE LA COMUNICACI?N",
-    "nombre": "LAGOS DANIELA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4213",
-    "codigo": "PSI4213_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA COMUNICACI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "GERBER MONICA MICHELLE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "ALARC?N FELIPE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_FG01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "GERBER MONICA MICHELLE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "ALARC?N FELIPE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_VC02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "GERBER MONICA MICHELLE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "ALARC?N FELIPE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_FG02",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "GERBER MONICA MICHELLE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "ALARC?N FELIPE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_VC03",
-    "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "ASCENCIO CARLOS ALBERTO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_FG03",
-    "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "ASCENCIO CARLOS ALBERTO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4214",
-    "codigo": "PSI4214_FG03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A SOCIAL 1",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_VC01",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "CEDE?O JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "CEDE?O JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_FG01",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_VC02",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "GRANDI FABRISSIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_FG02",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "GRANDI FABRISSIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "CEDE?O JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_VC03",
-    "dia": "MA",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "GRANDI FABRISSIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_FG03",
-    "dia": "MA",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "GRANDI FABRISSIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4216",
-    "codigo": "PSI4216_FG03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE ADULTEZ Y TERCERA EDAD",
-    "nombre": "CEDE?O JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4221",
-    "codigo": "PSI4221_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A",
-    "nombre": "ARMIJO JULIO EDUARDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4221",
-    "codigo": "PSI4221_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A",
-    "nombre": "PALOMERA VALERIA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4221",
-    "codigo": "PSI4221_VC02",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4221",
-    "codigo": "PSI4221_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A",
-    "nombre": "BAEZA JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4221",
-    "codigo": "PSI4221_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A",
-    "nombre": "PALOMERA VALERIA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4221",
-    "codigo": "PSI4221_VC03",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOPATOLOG?A",
-    "nombre": "ARMIJO JULIO EDUARDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4222",
-    "codigo": "PSI4222_VC01",
-    "dia": "MA",
-    "hora": "11:30 - 12:50; 14:30 - 15:50",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA",
-    "nombre": "CARRASCO DANIELA DEL CARMEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4222",
-    "codigo": "PSI4222_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA",
-    "nombre": "NILO JOSE MIGUEL",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4222",
-    "codigo": "PSI4222_VC02",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA",
-    "nombre": "CARRASCO DANIELA DEL CARMEN",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4222",
-    "codigo": "PSI4222_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA",
-    "nombre": "NILO JOSE MIGUEL",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4222",
-    "codigo": "PSI4222_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA",
-    "nombre": "NILO JOSE MIGUEL",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4222",
-    "codigo": "PSI4222_VC03",
-    "dia": "VI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "INTRODUCCI?N A LA PSICOLOG?A CL?NICA",
-    "nombre": "CARRASCO DANIELA DEL CARMEN",
-    "descripcion": "CATEDRA"
-  },
-  {
-    "id": "PSI4223",
-    "codigo": "PSI4223_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A   OPCIONAL"
-  },
-  {
-    "id": "PSI4223",
-    "codigo": "PSI4223_VC01",
-    "dia": "MI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD",
-    "nombre": "FEUCHTMANN JORGE CHRISTIAN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4223",
-    "codigo": "PSI4223_VC02",
-    "dia": "JU",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD",
-    "nombre": "FEUCHTMANN JORGE CHRISTIAN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4223",
-    "codigo": "PSI4223_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4223",
-    "codigo": "PSI4223_VC03",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4223",
-    "codigo": "PSI4223_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A DE LA PERSONALIDAD",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC01",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "GERIN MATTIA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "MATTOLI JOSEFINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC02",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "GARRIDO MARCELO ISMAEL",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "SANGUESA ANDRES FELIPE",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC03",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "LAVIN CLAUDIO SEBASTIAN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "SPALINGER FERNANDA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC04",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "MENDIBURO ANDRES FERNANDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "VILLENA BEL?N ANDREA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC05",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "COSTA STEFANELLA MARIA ANNA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4225",
-    "codigo": "PSI4225_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N II",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4311",
-    "codigo": "PSI4311_VC01",
-    "dia": "VI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A DE NI?OS",
-    "nombre": "PAGANINI ALBANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4311",
-    "codigo": "PSI4311_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A DE NI?OS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4313",
-    "codigo": "PSI4313_VC01",
-    "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTRODUCCI?N AL PSICODIAGN?STICO",
-    "nombre": "CHOMALI KAREM",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4313",
-    "codigo": "PSI4313_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTRODUCCI?N AL PSICODIAGN?STICO",
-    "nombre": "ITURBE JORGE I?AKI",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4314",
-    "codigo": "PSI4314_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A TRABAJO Y ORGANIZACIONES",
-    "nombre": "TORO JUAN PABLO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4314",
-    "codigo": "PSI4314_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A TRABAJO Y ORGANIZACIONES",
-    "nombre": "ARAYA FERNANDA EDITA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4314",
-    "codigo": "PSI4314_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A TRABAJO Y ORGANIZACIONES",
-    "nombre": "ARAYA FERNANDA EDITA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4314",
-    "codigo": "PSI4314_FG01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A TRABAJO Y ORGANIZACIONES",
-    "nombre": "TORO JUAN PABLO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC01",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA BARROS LUCO"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC01",
-    "dia": "VI",
-    "hora": "14:30 - 15:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "IBACACHE LUIS EDUARDO",
-    "descripcion": "TALLER  BARROS LUCO"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC06",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA EL PERAL"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC06",
-    "dia": "MI",
     "hora": "17:25 - 18:45",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  EL PERAL"
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC11",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA EL PERAL"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC11",
-    "dia": "MI",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
+    "dia": "VI",
     "hora": "17:25 - 18:45",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  EL PERAL"
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "REBOLLEDO XIMENA DEL CARMEN",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC12",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA EL PERAL"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC12",
-    "dia": "MI",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
+    "dia": "VI",
     "hora": "17:25 - 18:45",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  EL PERAL"
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC13",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA HORWITZ"
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC13",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER HORWITZ"
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC14",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA HORWITZ"
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "MALDONADO MARCIA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC14",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER HORWITZ"
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "VILLANUEVA CAROLINA ANDREA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC15",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA HORWITZ"
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC15",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
     "dia": "VI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER HORWITZ"
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC16",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
+    "id": "ENF2035",
+    "codigo": "ENF2035_VC01",
+    "dia": "JU LU MA MI VI",
+    "hora": "08:30 - 12:50; 08:30 - 18:45; 08:30 - 17:20",
+    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO",
     "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA HORWITZ"
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC16",
-    "dia": "VI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER HORWITZ"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "BERNALES MARIA UNISE",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC17",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA HORWITZ"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "BEAMIN NATALIA MACARENA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC17",
-    "dia": "VI",
-    "hora": "11:30 - 15:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER HORWITZ"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "PRIETO XIMENA ALEJANDRA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC18",
-    "dia": "VI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER HORWITZ"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "BRITO DENNISSE ANDREA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC18",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA HORWITZ"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "LIEMPI SOLANGE BEATRICE",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC02",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA BARROS LUCO"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC02",
-    "dia": "VI",
-    "hora": "14:30 - 15:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  BARROS LUCO"
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
+    "nombre": "ALVAREZ LUCIA RAQUEL AMELIA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC03",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
+    "id": "ENF2037",
+    "codigo": "ENF2037_VC01",
+    "dia": "JU LU MA MI VI",
+    "hora": "11:30 - 12:50; 08:30 - 18:45",
+    "nombre_asignatura": "INTERNADO COMUNITARIO",
     "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA BARROS LUCO"
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC03",
-    "dia": "VI",
-    "hora": "14:30 - 15:50",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  BARROS LUCO"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC04",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA BARROS LUCO"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC04",
-    "dia": "VI",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
     "hora": "16:00 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  BARROS LUCO"
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "ARANEDA JULIETA ADRIANA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC05",
-    "dia": "VI",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
     "hora": "16:00 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  BARROS LUCO"
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC05",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA BARROS LUCO"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC",
-    "dia": "VI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA BARROS LUCO"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC",
-    "dia": "VI",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
     "hora": "16:00 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  BARROS LUCO"
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "MU?OZ MARA ELIZABETH",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC08",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA EL PERAL"
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "RAPIMAN MARIA EUGENIA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC08",
-    "dia": "MI",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "ARRATIA ALEJANDRINA DEL CARMEN",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "CANEO MARIANELLA DE LOURDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "SEPULVEDA CARMEN TERESA DE LOURDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC01",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "BRITO DENNISSE ANDREA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
     "hora": "17:25 - 18:45",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  EL PERAL"
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "ARANEDA JULIETA ADRIANA",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC09",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA EL PERAL"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC09",
-    "dia": "MI",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
     "hora": "17:25 - 18:45",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  EL PERAL"
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "MU?OZ MARA ELIZABETH",
+    "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC10",
-    "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA EL PERAL"
-  },
-  {
-    "id": "PSI4321",
-    "codigo": "PSI4321_VC10",
-    "dia": "MI",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
     "hora": "17:25 - 18:45",
-    "nombre_asignatura": "PSICOPATOLOG?A Y PSIQUIATR?A ADULTOS",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "TALLER  EL PERAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC01",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MATELUNA OLGA XIMENA",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "RAPIMAN MARIA EUGENIA",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC01",
-    "dia": "MA",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MATELUNA OLGA XIMENA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "BREULL EMILIA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC02",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MATELUNA OLGA XIMENA",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "ARRATIA ALEJANDRINA DEL CARMEN",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC02",
-    "dia": "MA",
-    "hora": "14:30 - 15:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MATELUNA OLGA XIMENA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "BREULL EMILIA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC03",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "SEPULVEDA CAROLINA",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "CANEO MARIANELLA DE LOURDES",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC03",
-    "dia": "MA",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "SEPULVEDA CAROLINA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC04",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "SEPULVEDA CAROLINA",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "SEPULVEDA CARMEN TERESA DE LOURDES",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC04",
-    "dia": "MA",
-    "hora": "14:30 - 15:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "SEPULVEDA CAROLINA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "SCHLESINGER ISIDORA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MORALES JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC05",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MANRIQUEZ MARIA MAGDALENA",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "BRITO DENNISSE ANDREA",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC05",
-    "dia": "MA",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MANRIQUEZ MARIA MAGDALENA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC06",
-    "dia": "MA",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MANRIQUEZ MARIA MAGDALENA",
+    "id": "ENF2038",
+    "codigo": "ENF2038_VC02",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "SEMINARIO PROFESIONAL II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC06",
-    "dia": "MA",
-    "hora": "14:30 - 15:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MANRIQUEZ MARIA MAGDALENA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC06",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "MORALES JAVIERA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC07",
+    "id": "ENF9001",
+    "codigo": "ENF9001_VC01",
     "dia": "MI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "CORROTEA ANITA ANDREA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC07",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC07",
-    "dia": "MI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "CORROTEA ANITA ANDREA",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC08",
-    "dia": "MI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "CORROTEA ANITA ANDREA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC08",
-    "dia": "MI",
-    "hora": "11:30 - 12:50",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "ITURBE JORGE I?AKI",
-    "descripcion": "TALLER"
-  },
-  {
-    "id": "PSI4323",
-    "codigo": "PSI4323_VC08",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO NI?OS Y ADOLESCENTES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC01",
-    "dia": "MA",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "PE?A MONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "VIDAL VALENTINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG01",
-    "dia": "MA",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "PE?A MONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "VIDAL VALENTINA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "MICHELLE CEPEDA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "MENA PAULA BEATRIZ",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "MICHELLE CEPEDA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG02",
-    "dia": "JU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "MENA PAULA BEATRIZ",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC03",
-    "dia": "JU",
     "hora": "16:00 - 18:45",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "MENA PAULA BEATRIZ",
+    "nombre_asignatura": "ONCOLOG?A",
+    "nombre": "ALVAREZ ELVIRA ELIANA",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4324",
-    "codigo": "PSI4324_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG03",
-    "dia": "JU",
+    "id": "ENF9009",
+    "codigo": "ENF9009_VC01",
+    "dia": "MI",
     "hora": "16:00 - 18:45",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "MENA PAULA BEATRIZ",
+    "nombre_asignatura": "SALUD OCUPACIONAL",
+    "nombre": "ROJAS CRISTIAN MAURICIO",
     "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4324",
-    "codigo": "PSI4324_FG03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y EDUCACI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC01",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "GUERRERO KATHERINE ANDREA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "GUERRERO KATHERINE ANDREA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC02",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "QUIROZ FRANCISCA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC02",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "TOLEDO MARIA ISABEL",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "VIVALLO BENJAM?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC03",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "GODOY LORENA PAZ",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "VASQUEZ CARLA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC04",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "PALMA EVELYN GERALDINE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "ZEPEDA CAMILA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC05",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "BOUEY ERNESTO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4325",
-    "codigo": "PSI4325_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INVESTIGACI?N IV",
-    "nombre": "ARANA PABLO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4326",
-    "codigo": "PSI4326_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PERSPECTIVAS EN PSICOAN?LISIS",
-    "nombre": "CHAMORRO MAR?A TERESA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4326",
-    "codigo": "PSI4326_VC01",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PERSPECTIVAS EN PSICOAN?LISIS",
-    "nombre": "DE LA FABIAN RODRIGO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4327",
-    "codigo": "PSI4327_VC01",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PERSPECTIVAS EN HUMANISMO",
-    "nombre": "MENDEZ MATIAS ANDRES",
-    "descripcion": "CATEDRA B-LEARNING"
-  },
-  {
-    "id": "PSI4327",
-    "codigo": "PSI4327_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PERSPECTIVAS EN HUMANISMO",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4328",
-    "codigo": "PSI4328_VC01",
-    "dia": "MI",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PERSPECTIVAS SIST?MICO",
-    "nombre": "SPULER CHRISTIAN ERNESTO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4328",
-    "codigo": "PSI4328_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PERSPECTIVAS SIST?MICO",
-    "nombre": "GAVILAN NATALIA ANDREA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4329",
-    "codigo": "PSI4329_VC01",
-    "dia": "LU",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "PERSPECTIVAS COGNITIVO",
-    "nombre": "KUSANOVIC JORGE ANTONIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4329",
-    "codigo": "PSI4329_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PERSPECTIVAS COGNITIVO",
-    "nombre": "MAGENDZO ESTER TANIA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4411",
-    "codigo": "PSI4411_VC01",
-    "dia": "JU",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOLOG?A Y SALUD",
-    "nombre": "LUCERO CLAUDIA VERONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4411",
-    "codigo": "PSI4411_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y SALUD",
-    "nombre": "SONGER NATALIA ANDREA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4411",
-    "codigo": "PSI4411_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y SALUD",
-    "nombre": "SONGER NATALIA ANDREA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4411",
-    "codigo": "PSI4411_FG01",
-    "dia": "JU",
-    "hora": "08:30 - 11:20",
-    "nombre_asignatura": "PSICOLOG?A Y SALUD",
-    "nombre": "LUCERO CLAUDIA VERONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4412",
-    "codigo": "PSI4412_VC01",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A JUSTICIA",
-    "nombre": "VALENZUELA CAROLINA CRISTINA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4412",
-    "codigo": "PSI4412_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A JUSTICIA",
-    "nombre": "URZ?A CATALINA BEL?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4412",
-    "codigo": "PSI4412_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A JUSTICIA",
-    "nombre": "URZ?A CATALINA BEL?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4412",
-    "codigo": "PSI4412_FG01",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A JUSTICIA",
-    "nombre": "VALENZUELA CAROLINA CRISTINA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4413",
-    "codigo": "PSI4413_VC01",
-    "dia": "VI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "PSICODIAGN?STICO ADULTOS",
-    "nombre": "MENESES PATRICIO SEBASTIAN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4413",
-    "codigo": "PSI4413_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICODIAGN?STICO ADULTOS",
-    "nombre": "BRAVO JOAQUIN ANDRES",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4414",
-    "codigo": "PSI4414_VC01",
-    "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A Y SUJETOS SOCIALES",
-    "nombre": "AYALA ALVARO PATRICIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4414",
-    "codigo": "PSI4414_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y SUJETOS SOCIALES",
-    "nombre": "UBIERGO SEBASTIAN IGNACIO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4414",
-    "codigo": "PSI4414_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PSICOLOG?A Y SUJETOS SOCIALES",
-    "nombre": "UBIERGO SEBASTIAN IGNACIO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4414",
-    "codigo": "PSI4414_FG01",
-    "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "PSICOLOG?A Y SUJETOS SOCIALES",
-    "nombre": "AYALA ALVARO PATRICIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC01",
-    "dia": "VI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "BAEZ JAVIER EUGENIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC02",
-    "dia": "VI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "LE FORT JOSE ANTONIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC03",
-    "dia": "VI",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "LE FORT JOSE ANTONIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC04",
-    "dia": "LU",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4423",
-    "codigo": "PSI4423_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "DISE?O Y EVALUACI?N DE PROYECTOS DE INTE",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A  OPCIONAL"
-  },
-  {
-    "id": "PSI4425",
-    "codigo": "PSI4425_VC01",
-    "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS",
-    "nombre": "ASCENCIO SILVIA DEL CARMEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4425",
-    "codigo": "PSI4425_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS",
-    "nombre": "ALARCON NICOLAS EDUARDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4425",
-    "codigo": "PSI4425_VC02",
-    "dia": "MI",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS",
-    "nombre": "YEVES JESUS",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4425",
-    "codigo": "PSI4425_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS",
-    "nombre": "VARGAS MACARENA ALEJANDRA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4425",
-    "codigo": "PSI4425_VC03",
-    "dia": "MA",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS",
-    "nombre": "YEVES JESUS",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4425",
-    "codigo": "PSI4425_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "GESTI?N DE RECURSOS HUMANOS",
-    "nombre": "VARGAS MACARENA ALEJANDRA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4426",
-    "codigo": "PSI4426_VC01",
-    "dia": "MI",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: SUJETOS SOCIALES",
-    "nombre": "OLIVARES BARBARA ROCIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4426",
-    "codigo": "PSI4426_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: SUJETOS SOCIALES",
-    "nombre": "ROSSI ANTONELLA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4427",
-    "codigo": "PSI4427_VC01",
-    "dia": "MI",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: EDUCACI?N",
-    "nombre": "PE?A MONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4427",
-    "codigo": "PSI4427_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: EDUCACI?N",
-    "nombre": "MICHELLE CEPEDA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4428",
-    "codigo": "PSI4428_VC01",
-    "dia": "JU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "OPTATIVO  PSICOSOCIAL: SALUD",
-    "nombre": "COSTA STEFANELLA MARIA ANNA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4428",
-    "codigo": "PSI4428_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "OPTATIVO  PSICOSOCIAL: SALUD",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4429",
-    "codigo": "PSI4429_VC01",
-    "dia": "MI",
-    "hora": "14:30 - 18:45",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: TRABAJO",
-    "nombre": "ASCENCIO SILVIA DEL CARMEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4429",
-    "codigo": "PSI4429_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: TRABAJO",
-    "nombre": "ARELLANO DIEGO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4430",
-    "codigo": "PSI4430_VC01",
-    "dia": "JU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: JUSTICIA",
-    "nombre": "SOSMAN ADRIANA GUILA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4430",
-    "codigo": "PSI4430_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "OPTATIVO PSICOSOCIAL: JUSTICIA",
-    "nombre": "URZ?A CATALINA BEL?N",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4431",
-    "codigo": "PSI4431_VC01",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: PSICOAN?LISIS",
-    "nombre": "DE LA FABIAN RODRIGO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4431",
-    "codigo": "PSI4431_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: PSICOAN?LISIS",
-    "nombre": "NILO JOSE MIGUEL",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4432",
-    "codigo": "PSI4432_VC01",
-    "dia": "MI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: HUMANISMO",
-    "nombre": "BORIC ALEJANDRO BENJAMIN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4432",
-    "codigo": "PSI4432_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: HUMANISMO",
-    "nombre": "TAMAYO SERGIO",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4433",
-    "codigo": "PSI4433_VC01",
-    "dia": "MI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: SIST?MICO",
-    "nombre": "HENRIQUEZ SOFIA CATALINA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4433",
-    "codigo": "PSI4433_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: SIST?MICO",
-    "nombre": "SILVA GOTZONE ALEJANDRA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4433",
-    "codigo": "PSI4433_VC01",
-    "dia": "MI",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: SIST?MICO",
-    "nombre": "HERESI ELIANA OLGA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4434",
-    "codigo": "PSI4434_VC01",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: COGNITIVO",
-    "nombre": "DUARTE ALEJANDRA JAVIERA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4434",
-    "codigo": "PSI4434_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: COGNITIVO",
-    "nombre": "RUBIO LUNA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4435",
-    "codigo": "PSI4435_VC01",
-    "dia": "LU",
-    "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: INFANTIL",
-    "nombre": "HERNANDEZ KARINA FERNANDA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4435",
-    "codigo": "PSI4435_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N CL?NICA: INFANTIL",
-    "nombre": "POHL GABRIEL",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "VALENZUELA CAROLINA CRISTINA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC10",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "BORIC ALEJANDRO BENJAMIN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC11",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "ASCENCIO SILVIA DEL CARMEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC12",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "OLIVARES BARBARA ROCIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC13",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "AYALA ALVARO PATRICIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC14",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "VALENZUELA PAZ",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC15",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "ARELLANO LYDIA MIREYA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC16",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "HERESI ELIANA OLGA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC17",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "LARA CLAUDIA LORETO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC18",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "KUSANOVIC JORGE ANTONIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC19",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "MARTINEZ CLAUDIO RODRIGO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "ALIAGA ALVARO FELIPE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC20",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "MORALEDA MONSERRAT ALICIA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC21",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "CONTRERAS LORENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC22",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "PAGANINI ALBANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC23",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "ANSOLEAGA MARIA ELISA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC24",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "MATELUNA OLGA XIMENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "LUCERO CLAUDIA VERONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "TORO JUAN PABLO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC06",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "PIZARRO FRANCISCO JAVIER",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC07",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "SOSMAN ADRIANA GUILA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC08",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "MU?OZ INDHIRA RAYEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4521",
-    "codigo": "PSI4521_VC09",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA PROFESIONAL",
-    "nombre": "MAFFIOLETTI FRANCISCO JOSE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "VALENZUELA CAROLINA CRISTINA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC10",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "BORIC ALEJANDRO BENJAMIN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC11",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "ASCENCIO SILVIA DEL CARMEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC12",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "OLIVARES BARBARA ROCIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC13",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "AYALA ALVARO PATRICIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC14",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "VALENZUELA PAZ",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC15",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "ARELLANO LYDIA MIREYA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC16",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "HERESI ELIANA OLGA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC17",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "LARA CLAUDIA LORETO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC18",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "KUSANOVIC JORGE ANTONIO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC19",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "MARTINEZ CLAUDIO RODRIGO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "ALIAGA ALVARO FELIPE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC20",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "MORALEDA MONSERRAT ALICIA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC21",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "CONTRERAS LORENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_CA22",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "PAGANINI ALBANA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC23",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "ANSOLEAGA MARIA ELISA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC24",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC03",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "MATELUNA OLGA XIMENA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC04",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "LUCERO CLAUDIA VERONICA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC05",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "TORO JUAN PABLO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC06",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "PIZARRO FRANCISCO JAVIER",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC07",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "SOSMAN ADRIANA GUILA",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC08",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "MU?OZ INDHIRA RAYEN",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4522",
-    "codigo": "PSI4522_VC09",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "SUPERVISI?N DE PR?CTICA PROFESIONAL",
-    "nombre": "MAFFIOLETTI FRANCISCO JOSE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI9526",
-    "codigo": "PSI9526_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA ELECTIVA",
-    "nombre": "ANSOLEAGA MARIA ELISA",
-    "descripcion": "C?TEDRA  PRACTICA ELECTIVA"
-  },
-  {
-    "id": "PSI9526",
-    "codigo": "PSI9526_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "PR?CTICA ELECTIVA",
-    "nombre": "TOLEDO MARIA ISABEL",
-    "descripcion": "C?TEDRA  P ELECTIVA"
-  },
-  {
-    "id": "PSI4530",
-    "codigo": "PSI4530_VC01",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "RECLUTAMIENTO Y SELECCI?N",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4530",
-    "codigo": "PSI4530_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "RECLUTAMIENTO Y SELECCI?N",
-    "nombre": "ARELLANO DIEGO",
-    "descripcion": "AYUDANT?A OPCIONAL"
   },
   {
     "id": "CIG1002",
@@ -3852,24 +918,6 @@
     "descripcion": "C?TEDRA INGL?S"
   },
   {
-    "id": "PSI4542",
-    "codigo": "PSI4542_VC01",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTERVENCI?N EN CRISIS Y SUICIDIO",
-    "nombre": "MARTINEZ CLAUDIO RODRIGO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4542",
-    "codigo": "PSI4542_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N EN CRISIS Y SUICIDIO",
-    "nombre": "LUNA MANUELA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
     "id": "CIG1014",
     "codigo": "CIG1014_VC01",
     "dia": "LU MI",
@@ -4095,246 +1143,2433 @@
     "descripcion": "C?TEDRA INGL?S"
   },
   {
-    "id": "PSI4544",
-    "codigo": "PSI4544_VC01",
+    "id": "FSO9100",
+    "codigo": "FSO9100_VC01",
+    "dia": "NO DEFINIDO",
+    "hora": "NO DEFINIDO",
+    "nombre_asignatura": "PR?CTICA ELECTIVA",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "PRACTICA ELECTIVA"
+  },
+  {
+    "id": "FSO9100",
+    "codigo": "FSO9100_VC02",
+    "dia": "NO DEFINIDO",
+    "hora": "NO DEFINIDO",
+    "nombre_asignatura": "PR?CTICA ELECTIVA",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "PRACTICA ELECTIVA"
+  },
+  {
+    "id": "FSO9100",
+    "codigo": "FSO9100_VC03",
+    "dia": "NO DEFINIDO",
+    "hora": "NO DEFINIDO",
+    "nombre_asignatura": "PR?CTICA ELECTIVA",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "PRACTICA ELECTIVA"
+  },
+  {
+    "id": "FSO9100",
+    "codigo": "FSO9100_VC04",
+    "dia": "NO DEFINIDO",
+    "hora": "NO DEFINIDO",
+    "nombre_asignatura": "PR?CTICA ELECTIVA",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "PRACTICA ELECTIVA"
+  },
+  {
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC1",
+    "dia": "LU",
+    "hora": "14:30 - 17:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "C?TEDRA ,  Y"
+  },
+  {
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC1",
     "dia": "MI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "LA ENTREVISTA PERICIAL",
-    "nombre": "MAFFIOLETTI FRANCISCO JOSE",
-    "descripcion": "C?TEDRA"
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "WIESE GUILLERMO SEBASTIAN",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4544",
-    "codigo": "PSI4544_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "LA ENTREVISTA PERICIAL",
-    "nombre": "BELTRAN MARIA ROSARIO",
-    "descripcion": "AYUDANT?A OPCIONAL"
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC1",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4545",
-    "codigo": "PSI4545_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N COMUNITARIA",
-    "nombre": "OLIVARES BARBARA ROCIO",
-    "descripcion": "AYUDANT?A OPCIONAL"
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC2",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARIAS MARIA PATRICIA",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4545",
-    "codigo": "PSI4545_VC01",
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC2",
     "dia": "LU",
     "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTERVENCI?N COMUNITARIA",
-    "nombre": "LOPEZ NANCY DEL ROSARIO",
-    "descripcion": "C?TEDRA"
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "C?TEDRA ,  Y"
   },
   {
-    "id": "PSI4545",
-    "codigo": "PSI4545_VC01",
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC2",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "RETAMALES PATRICIO EDGARDO",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC3",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "WIESE GUILLERMO SEBASTIAN",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC3",
     "dia": "LU",
     "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTERVENCI?N COMUNITARIA",
-    "nombre": "AYALA ALVARO PATRICIO",
-    "descripcion": "C?TEDRA"
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "C?TEDRA ,  Y"
   },
   {
-    "id": "PSI4545",
-    "codigo": "PSI4545_VC01",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTERVENCI?N COMUNITARIA",
-    "nombre": "ARRIAGADA ALEJANDRA ANDREA",
-    "descripcion": "C?TEDRA"
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC4",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARIAS MARIA PATRICIA",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4545",
-    "codigo": "PSI4545_VC01",
-    "dia": "LU",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTERVENCI?N COMUNITARIA",
-    "nombre": "AZ?CAR MARIA JOSE",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4547",
-    "codigo": "PSI4547_VC01",
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC4",
     "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "INTERVENCI?N GRUPAL CON NI?OS Y ADOLESCE",
-    "nombre": "ORTUZAR PAMELA",
-    "descripcion": "C?TEDRA"
+    "hora": "08:30 - 11:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "C?TEDRA , Y"
   },
   {
-    "id": "PSI4547",
-    "codigo": "PSI4547_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERVENCI?N GRUPAL CON NI?OS Y ADOLESCE",
-    "nombre": "SANS IVANKA MARI",
-    "descripcion": "AYUDANT?A OPCIONAL"
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC4",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "BORQUEZ DANIEL ANTONIO",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4549",
-    "codigo": "PSI4549_VC01",
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC5",
     "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "G?NERO Y SEXUALIDADES",
-    "nombre": "AGUAYO FRANCISCO",
-    "descripcion": "C?TEDRA"
+    "hora": "08:30 - 11:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "C?TEDRA , Y"
   },
   {
-    "id": "PSI4549",
-    "codigo": "PSI4549_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "G?NERO Y SEXUALIDADES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC5",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "BORQUEZ DANIEL ANTONIO",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4549",
-    "codigo": "PSI4549_FG01",
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC5",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "MONTERO MARCIA VIRGINIA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC6",
     "dia": "VI",
-    "hora": "14:30 - 17:20",
-    "nombre_asignatura": "G?NERO Y SEXUALIDADES",
-    "nombre": "AGUAYO FRANCISCO",
-    "descripcion": "C?TEDRA"
+    "hora": "08:30 - 11:20",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "ARNES MARIBEL ELVIRA",
+    "descripcion": "C?TEDRA , Y"
   },
   {
-    "id": "PSI4549",
-    "codigo": "PSI4549_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "G?NERO Y SEXUALIDADES",
-    "nombre": "NO DEFINIDO",
-    "descripcion": "AYUDANT?A OPCIONAL"
+    "id": "ENF3005",
+    "codigo": "ENF3005_VC6",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "BIOQU?MICA",
+    "nombre": "RETAMALES PATRICIO EDGARDO",
+    "descripcion": "LABORATORIO"
   },
   {
-    "id": "PSI4117",
-    "codigo": "PSI4117_FG01",
-    "dia": "LU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "REYES GABRIEL EDUARDO",
-    "descripcion": "C?TEDRA"
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
+    "dia": "VI",
+    "hora": "08:30 - 11:20; 11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "TOLEDO JAVIERA FABIOLA",
+    "descripcion": "LABORATORIO  VIERNES"
   },
   {
-    "id": "PSI4117",
-    "codigo": "PSI4117_FG01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VB01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VB01",
-    "dia": "LU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "REYES GABRIEL EDUARDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VC01",
-    "dia": "LU",
-    "hora": "16:00 - 18:45",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "REYES GABRIEL EDUARDO",
-    "descripcion": "C?TEDRA"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "GRASSO AITANA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_FG02",
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
     "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "FERNANDEZ DIEGO IGNACIO",
-    "descripcion": "C?TEDRA"
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PAREDES PAULA EUGENIA",
+    "descripcion": "C?TEDRA UNICA"
   },
   {
-    "id": "PSI4117",
-    "codigo": "PSI4117_FG02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "DONOSO NATALIA FRANCISCA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VB02",
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
     "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "FERNANDEZ DIEGO IGNACIO",
-    "descripcion": "C?TEDRA"
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "RUIZ PABLO ANDRES",
+    "descripcion": "C?TEDRA UNICA"
   },
   {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VB02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "DONOSO NATALIA FRANCISCA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VC02",
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
     "dia": "MA",
-    "hora": "10:00 - 12:50",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "FERNANDEZ DIEGO IGNACIO",
-    "descripcion": "C?TEDRA"
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PE?A MARIA CORINA",
+    "descripcion": "C?TEDRA UNICA"
   },
   {
-    "id": "PSI4117",
-    "codigo": "PSI4117_VC02",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "FILOSOF?A Y EPISTEMOLOG?A DE LA PSICOLOG",
-    "nombre": "DONOSO NATALIA FRANCISCA",
-    "descripcion": "AYUDANT?A OPCIONAL"
-  },
-  {
-    "id": "PSI4436",
-    "codigo": "PSI4436_VC01",
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
     "dia": "MA",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "HUMERES ALEXIS JOHANY",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
+    "dia": "VI",
+    "hora": "08:30 - 11:20",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PE?A MARIA CORINA",
+    "descripcion": "LABORATORIO  VIERNES"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
+    "dia": "VI",
+    "hora": "08:30 - 11:20",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "RUIZ PABLO ANDRES",
+    "descripcion": "LABORATORIO  VIERNES"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
+    "dia": "VI",
+    "hora": "08:30 - 11:20",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "BRAVO DANIELA ALEJANDRA",
+    "descripcion": "LABORATORIO  VIERNES"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
+    "dia": "VI",
+    "hora": "08:30 - 11:20; 11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PAREDES PAULA EUGENIA",
+    "descripcion": "LABORATORIO  VIERNES"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC01",
+    "dia": "VI",
+    "hora": "08:30 - 11:20; 11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "CABRERA MARTA LISSETTE",
+    "descripcion": "LABORATORIO  VIERNES"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MI",
     "hora": "08:30 - 12:50",
-    "nombre_asignatura": "INTERV. CLINICA: NEUROPSICOLOG?A CL?NICA",
-    "nombre": "SALAS CHRISTIAN EDUARDO",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "TOLEDO JAVIERA FABIOLA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MA",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "HUMERES ALEXIS JOHANY",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MA",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PAREDES PAULA EUGENIA",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MA",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PE?A MARIA CORINA",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MA",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "RUIZ PABLO ANDRES",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MI",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "CABRERA MARTA LISSETTE",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MI",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "RUIZ PABLO ANDRES",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MI",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PE?A MARIA CORINA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MI",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "PAREDES PAULA EUGENIA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3006",
+    "codigo": "ENF3006_VC02",
+    "dia": "MI",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "MORFOFUNCI?N I",
+    "nombre": "BRAVO DANIELA ALEJANDRA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC01",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC01",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC01",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC01",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC02",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC02",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC02",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC02",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC03",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC03",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC03",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC03",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC04",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC04",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC04",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3007",
+    "codigo": "ENF3007_VC04",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "BASES TE?RICAS DE LA ENFERMER?A II",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "C?TEDRA MADRE ,, Y"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC1",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "ALLERS INGRID ILSE",
+    "descripcion": "C?TEDRA MADRE  Y"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC1",
+    "dia": "JU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "BEAMIN NATALIA MACARENA",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC1",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "BEAMIN NATALIA MACARENA",
+    "descripcion": "C?TEDRA MADRE  Y"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC2",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "ALLERS INGRID ILSE",
+    "descripcion": "C?TEDRA MADRE  Y"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC2",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "BEAMIN NATALIA MACARENA",
+    "descripcion": "C?TEDRA MADRE  Y"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC2",
+    "dia": "JU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "RAPIMAN MARIA EUGENIA",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3008",
+    "codigo": "ENF3008_VC2",
+    "dia": "JU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "COMUNICACI?N Y EDUCACI?N EN SALUD",
+    "nombre": "PRIETO XIMENA ALEJANDRA",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC1",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "RETAMAL YESSICA DE LOURDES",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC1",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "RETAMAL YESSICA DE LOURDES",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC1",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC1",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "RETAMAL YESSICA DE LOURDES",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC2",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "PARRA BENJAMIN VICENTE",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC3",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC3",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC3",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "RETAMAL YESSICA DE LOURDES",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC4",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC4",
+    "dia": "JU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "RETAMAL YESSICA DE LOURDES",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3013",
+    "codigo": "ENF3013_VC4",
+    "dia": "JU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "FARMACOLOG?A EN ENFERMER?A",
+    "nombre": "TORRES PAMELA ALEJANDRA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC1",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "ARANEDA ROBERTO ORTEGA",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC1",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "QUEZADA MAURICIO ANDRES",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC1",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "TORRES PAMELA ALEJANDRA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC2",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "ARANEDA ROBERTO ORTEGA",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC2",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "QUEZADA MAURICIO ANDRES",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC2",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "PARRA BENJAMIN VICENTE",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC3",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC3",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "QUEZADA MAURICIO ANDRES",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC3",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "ARANEDA ROBERTO ORTEGA",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC4",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "ARANEDA ROBERTO ORTEGA",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC4",
+    "dia": "LU",
+    "hora": "08:30 - 12:50",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "QUEZADA MAURICIO ANDRES",
+    "descripcion": "C?TEDRA,,,"
+  },
+  {
+    "id": "ENF3014",
+    "codigo": "ENF3014_VC4",
+    "dia": "JU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "FISIOPATOLOG?A EN ENFERMER?A",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "REBOLLEDO VILMA PILAR",
     "descripcion": "C?TEDRA"
   },
   {
-    "id": "PSI4436",
-    "codigo": "PSI4436_VC01",
-    "dia": "NO DEFINIDO",
-    "hora": "NO DEFINIDO",
-    "nombre_asignatura": "INTERV. CLINICA: NEUROPSICOLOG?A CL?NICA",
-    "nombre": "MU?OZ INDHIRA RAYEN",
-    "descripcion": "AYUDANT?A OPCIONAL"
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA MI",
+    "hora": "08:30 - 09:50; 08:30 - 09:50; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "ORTIZ PAULA CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA MI",
+    "hora": "10:00 - 11:20; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "REBOLLEDO XIMENA DEL CARMEN",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "JABES VALERIA PATRICIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA MI",
+    "hora": "10:00 - 11:20; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "VILLANUEVA CAROLINA ANDREA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "MALDONADO MARCIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "ARAYA PAULINA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "NICOLAS GERALDINE",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MA",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "AGUIRRE JEMIMAH FRANCIS",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC01",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "11:30 - 12:50; 16:00 - 17:20; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "REBOLLEDO VILMA PILAR",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 17:25 - 18:45; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "REBOLLEDO XIMENA DEL CARMEN",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA",
+    "hora": "14:30 - 15:50; 16:00 - 17:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "ORTIZ PAULA CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 08:30 - 09:50; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "NICOLAS GERALDINE",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 10:00 - 11:20; 11:30 - 12:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "JABES VALERIA PATRICIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 17:25 - 18:45; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "GUI?EZ JUAN CARLOS",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 17:25 - 18:45; 10:00 - 11:20; 11:30 - 12:50",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA",
+    "hora": "08:30 - 09:50; 16:00 - 17:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "AGUIRRE JEMIMAH FRANCIS",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA",
+    "hora": "08:30 - 09:50; 16:00 - 17:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "VILLANUEVA CAROLINA ANDREA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA",
+    "hora": "08:30 - 09:50; 16:00 - 17:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "ARAYA PAULINA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "11:30 - 12:50; 16:00 - 17:20; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "MALDONADO MARCIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "16:00 - 17:20; 17:25 - 18:45; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3015",
+    "codigo": "ENF3015_VC02",
+    "dia": "MA MI",
+    "hora": "10:00 - 11:20; 16:00 - 17:20; 10:00 - 11:20",
+    "nombre_asignatura": "CUIDADOS DE ENFERMER?A II",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC1",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC1",
+    "dia": "LU",
+    "hora": "14:30 - 15:50; 16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC1",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC1",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC2",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC2",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC2",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC2",
+    "dia": "LU",
+    "hora": "14:30 - 15:50; 16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC3",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "ROJAS MONICA ALEJANDRA",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC3",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC3",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC3",
+    "dia": "LU",
+    "hora": "14:30 - 15:50; 16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC4",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC4",
+    "dia": "LU",
+    "hora": "14:30 - 15:50; 16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "LEON ANDRES EDUARDO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC4",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA ,,,"
+  },
+  {
+    "id": "ENF3016",
+    "codigo": "ENF3016_VC4",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A EN SALUD MENTAL",
+    "nombre": "BIRKNER ROSA DEL CARMEN",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3017",
+    "codigo": "ENF3017_VC1",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOESTAD?STICA",
+    "nombre": "ARANDA WALDO ARMANDO",
+    "descripcion": "C?TEDRA  Y"
+  },
+  {
+    "id": "ENF3017",
+    "codigo": "ENF3017_VC1",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "BIOESTAD?STICA",
+    "nombre": "ARANDA ANGEL OMAR",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3017",
+    "codigo": "ENF3017_VC1",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOESTAD?STICA",
+    "nombre": "ARANDA ANGEL OMAR",
+    "descripcion": "C?TEDRA  Y"
+  },
+  {
+    "id": "ENF3017",
+    "codigo": "ENF3017_VC2",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "BIOESTAD?STICA",
+    "nombre": "ARANDA WALDO ARMANDO",
+    "descripcion": "LABORATORIO"
+  },
+  {
+    "id": "ENF3017",
+    "codigo": "ENF3017_VC2",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOESTAD?STICA",
+    "nombre": "ARANDA ANGEL OMAR",
+    "descripcion": "C?TEDRA  Y"
+  },
+  {
+    "id": "ENF3017",
+    "codigo": "ENF3017_VC2",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "BIOESTAD?STICA",
+    "nombre": "ARANDA WALDO ARMANDO",
+    "descripcion": "C?TEDRA  Y"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BERNALES MARIA UNISE",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "VI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "ALVAREZ LUCIA RAQUEL AMELIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BEAMIN NATALIA MACARENA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "MI JU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "JU MI",
+    "hora": "10:00 - 11:20; 08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BURATTINI NATALIA AURORA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "VI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "JORQUERA MARIANA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BOCHARD ANA MAR?A",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "ARAYA PAULINA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "VI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "GODOY PATRICIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "VI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "LIEMPI SOLANGE BEATRICE",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VCI",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "PRIETO XIMENA ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "VI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BERNALES MARIA UNISE",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "MI VI",
+    "hora": "08:30 - 09:50; 10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BEAMIN NATALIA MACARENA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "ARAYA PAULINA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "VI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "PRIETO XIMENA ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "JU VI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "LIEMPI SOLANGE BEATRICE",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "ALVAREZ LUCIA RAQUEL AMELIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "VI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BOCHARD ANA MAR?A",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "JORQUERA MARIANA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "VI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "BURATTINI NATALIA AURORA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3022",
+    "codigo": "ENF3022_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GESTI?N DEL CUIDADO EN LA COMUNIDAD I",
+    "nombre": "GODOY PATRICIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3023",
+    "codigo": "ENF3023_VC1",
+    "dia": "MA",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A",
+    "nombre": "ORTIZ PAULA CAROLINA",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3023",
+    "codigo": "ENF3023_VC1",
+    "dia": "MA",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A",
+    "nombre": "MALDONADO MARCIA",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3023",
+    "codigo": "ENF3023_VC1",
+    "dia": "MA",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A",
+    "nombre": "LIEMPI SOLANGE BEATRICE",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3023",
+    "codigo": "ENF3023_VC1",
+    "dia": "MA",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3023",
+    "codigo": "ENF3023_VC1",
+    "dia": "MA",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A",
+    "nombre": "REBOLLEDO XIMENA DEL CARMEN",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3023",
+    "codigo": "ENF3023_VC1",
+    "dia": "MA",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATR?A",
+    "nombre": "REBOLLEDO VILMA PILAR",
+    "descripcion": "C?TEDRA UNICA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC01",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC01",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC01",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC01",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC02",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC02",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC02",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "SILVA CAMILO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3024",
+    "codigo": "ENF3024_VC02",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A BASADA EN EVIDENCIA",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3025",
+    "codigo": "ENF3025_VC1",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3025",
+    "codigo": "ENF3025_VC1",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3025",
+    "codigo": "ENF3025_VC1",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3025",
+    "codigo": "ENF3025_VC2",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3025",
+    "codigo": "ENF3025_VC2",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3025",
+    "codigo": "ENF3025_VC2",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "GESTI?N Y LIDERAZGO EN ENFERMER?A",
+    "nombre": "FLOREZ OSCAR YESID",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "SANZ MARCELA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "JU VI",
+    "hora": "11:30 - 12:50; 17:25 - 18:45; 16:00 - 17:20; 14:30 - 15:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "VI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "URIBE MARIELA ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "VI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "WILLATT CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "JU VI",
+    "hora": "10:00 - 11:20; 10:00 - 11:20",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "MU?OZ MARA ELIZABETH",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "PACHECO CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "ARAYA PAULINA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "JU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC1",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "HENRIQUEZ SARA ESTER",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "VI",
+    "hora": "10:00 - 11:20; 11:30 - 12:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "WILLATT CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "VI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "MU?OZ MARA ELIZABETH",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "SANZ MARCELA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "HENRIQUEZ SARA ESTER",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "ZU?IGA JULIA VICTORIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "JU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "ARAYA PAULINA CECILIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "PACHECO CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "VI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "JU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "URIBE MARIELA ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3029",
+    "codigo": "ENF3029_VC2",
+    "dia": "JU VI",
+    "hora": "10:00 - 11:20; 16:00 - 18:45; 14:30 - 17:20",
+    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "MALDONADO MARCIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "VERGARA IRELLA ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "JABES VALERIA PATRICIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC1",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "VILLANUEVA CAROLINA ANDREA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "SALAS MARCELA PAZ",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "MALDONADO MARCIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "CALQUIN FABIOLA CAROLINA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "JABES VALERIA PATRICIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "VERGARA IRELLA ALEJANDRA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "LUCERO GLADYS DE LAS MERCEDES",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3030",
+    "codigo": "ENF3030_VC2",
+    "dia": "LU",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CR?TICAS",
+    "nombre": "VILLANUEVA CAROLINA ANDREA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC1",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC1",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC1",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC1",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "RAPIMAN MARIA EUGENIA",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC1",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "SEPULVEDA CARMEN TERESA DE LOURDES",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC2",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MU?OZ MARA ELIZABETH",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC2",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC2",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC2",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC2",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC3",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC3",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC3",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC3",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC3",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC4",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC4",
+    "dia": "MI",
+    "hora": "11:30 - 12:50; 14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC4",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC4",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC5",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "RAPIMAN MARIA EUGENIA",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC5",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC5",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC5",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC5",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC6",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC6",
+    "dia": "MI",
+    "hora": "08:30 - 09:50; 10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC6",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC6",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC7",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC7",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC7",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MU?OZ MARA ELIZABETH",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC7",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC7",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC8",
+    "dia": "MI",
+    "hora": "08:30 - 09:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "SEPULVEDA CARMEN TERESA DE LOURDES",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC8",
+    "dia": "MI",
+    "hora": "10:00 - 11:20",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "TALLER"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC8",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "MAZO PILAR ROC?O",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC8",
+    "dia": "MI",
+    "hora": "14:30 - 15:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "DE LA PUENTE CATHERINE",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3031",
+    "codigo": "ENF3031_VC8",
+    "dia": "MI",
+    "hora": "11:30 - 12:50",
+    "nombre_asignatura": "METODOLOG?AS DE LA INVESTIGACI?N II",
+    "nombre": "LABBE CAROLINE ALEJANDRA",
+    "descripcion": "C?TEDRA ,, Y"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC1",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "RAPIMAN MARIA EUGENIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC1",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC1",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "BURGOS LORETO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC1",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC2",
+    "dia": "LU",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "NO DEFINIDO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC2",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "RAPIMAN MARIA EUGENIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC2",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "BURGOS LORETO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF3032",
+    "codigo": "ENF3032_VC2",
+    "dia": "LU",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A Y MEDICINA INTEGRATIVA",
+    "nombre": "RIVEROS ALEJANDRO ALBERTO",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF9012",
+    "codigo": "ENF9012_VC1",
+    "dia": "MI",
+    "hora": "16:00 - 17:20",
+    "nombre_asignatura": "ENFERMER?A EN SALUD DIGITAL",
+    "nombre": "ARANEDA JULIETA ADRIANA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF9012",
+    "codigo": "ENF9012_VC1",
+    "dia": "MI",
+    "hora": "17:25 - 18:45",
+    "nombre_asignatura": "ENFERMER?A EN SALUD DIGITAL",
+    "nombre": "BRITO DENNISSE ANDREA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF9011",
+    "codigo": "ENF9011_VC1",
+    "dia": "MI",
+    "hora": "16:00 - 18:45",
+    "nombre_asignatura": "CUIDADOS PALIATIVOS Y FIN DE LA VIDA",
+    "nombre": "ARROYO CLAUDIA",
+    "descripcion": "C?TEDRA"
+  },
+  {
+    "id": "ENF9011",
+    "codigo": "ENF9011_VC1",
+    "dia": "MI",
+    "hora": "16:00 - 18:45",
+    "nombre_asignatura": "CUIDADOS PALIATIVOS Y FIN DE LA VIDA",
+    "nombre": "SANCHEZ ESTEBAN",
+    "descripcion": "C?TEDRA"
   }
 ]
