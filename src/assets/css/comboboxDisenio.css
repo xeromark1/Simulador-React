@@ -4,6 +4,7 @@
     /*background: linear-gradient(#444444, #5e5e5e);*/
     border-radius: 3px;
     padding-right: 20px;
+    width: 25%;
 }
 
 .ComboBox select{
