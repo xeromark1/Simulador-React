@@ -1,23 +1,107 @@
 [
   {
-    "id": "ENF2035",
-    "nombre_asignatura": "INTERNADO INTRAHOSPITALARIO"
+    "id": "CBF1000",
+    "nombre_asignatura": "MECÁNICA"
   },
   {
-    "id": "ENF2037",
-    "nombre_asignatura": "INTERNADO COMUNITARIO"
+    "id": "CBF1001",
+    "nombre_asignatura": "CALOR Y ONDAS"
   },
   {
-    "id": "ENF2038",
-    "nombre_asignatura": "SEMINARIO PROFESIONAL II"
+    "id": "CBF1002",
+    "nombre_asignatura": "ELECTRICIDAD Y MAGNETISMO"
   },
   {
-    "id": "ENF9001",
-    "nombre_asignatura": "ONCOLOGÍA"
+    "id": "CBM1000",
+    "nombre_asignatura": "ÁLGEBRA Y GEOMETRÍA"
   },
   {
-    "id": "ENF9009",
-    "nombre_asignatura": "SALUD OCUPACIONAL"
+    "id": "CBM1001",
+    "nombre_asignatura": "CÁLCULO I"
+  },
+  {
+    "id": "CBM1002",
+    "nombre_asignatura": "ÁLGEBRA LINEAL"
+  },
+  {
+    "id": "CBM1003",
+    "nombre_asignatura": "CÁLCULO II"
+  },
+  {
+    "id": "CBM1005",
+    "nombre_asignatura": "ECUACIONES DIFERENCIALES"
+  },
+  {
+    "id": "CBM1006",
+    "nombre_asignatura": "CÁLCULO III"
+  },
+  {
+    "id": "CBQ1000",
+    "nombre_asignatura": "QUÍMICA"
+  },
+  {
+    "id": "CII1000",
+    "nombre_asignatura": "CONTABILIDAD Y COSTOS"
+  },
+  {
+    "id": "CII2002",
+    "nombre_asignatura": "INGENIERIA ECONÓMICA"
+  },
+  {
+    "id": "CII2750",
+    "nombre_asignatura": "OPTIMIZACIÓN"
+  },
+  {
+    "id": "CIT1000",
+    "nombre_asignatura": "PROGRAMACIÓN"
+  },
+  {
+    "id": "CIT1010",
+    "nombre_asignatura": "PROGRAMACIÓN AVANZADA"
+  },
+  {
+    "id": "CIT4011",
+    "nombre_asignatura": "TITULACIÓN EXÁMEN DE TÍTULO"
+  },
+  {
+    "id": "CIT4012",
+    "nombre_asignatura": "TITULACIÓN MEMORIA"
+  },
+  {
+    "id": "CIT4013",
+    "nombre_asignatura": "TITULACIÓN TALLER PROFESIONAL"
+  },
+  {
+    "id": "CIT4014",
+    "nombre_asignatura": "TITULACIÓN PAPER"
+  },
+  {
+    "id": "CIT5001",
+    "nombre_asignatura": "PRÁCTICA PROFESIONAL 1"
+  },
+  {
+    "id": "CIT5002",
+    "nombre_asignatura": "PRÁCTICA PROFESIONAL 2"
+  },
+  {
+    "id": "FIC1000",
+    "nombre_asignatura": "COMUNICACIÓN PARA LA INGENIERÍA"
+  },
+  {
+    "id": "FIC1003",
+    "nombre_asignatura": "DERECHO EN INGENIERÍA"
+  },
+  {
+    "id": "ING9100",
+    "nombre_asignatura": "PRÁCTICA ELECTIVA"
+  },
+  {
+    "id": "ING9101",
+    "nombre_asignatura": "PRÁCTICAS ELECTIVAS"
+  },
+  {
+    "id": "CIT2204",
+    "nombre_asignatura": "PROBABILIDADES Y ESTADÍSTICAS"
   },
   {
     "id": "CIG1002",
@@ -28,87 +112,147 @@
     "nombre_asignatura": "INGLÉS GENERAL III"
   },
   {
+    "id": "CIT4015",
+    "nombre_asignatura": "TITULACIÓN VIA MAGISTER"
+  },
+  {
     "id": "CIG1014",
     "nombre_asignatura": "INGLÉS GENERAL III"
   },
   {
-    "id": "FSO9100",
-    "nombre_asignatura": "PRÁCTICA ELECTIVA"
+    "id": "CIT3345",
+    "nombre_asignatura": "PROCESOS ÁGILES"
   },
   {
-    "id": "ENF3005",
-    "nombre_asignatura": "BIOQUÍMICA"
+    "id": "CIT3431",
+    "nombre_asignatura": "REDES MÓVILES CELULARES"
   },
   {
-    "id": "ENF3006",
-    "nombre_asignatura": "MORFOFUNCIÓN I"
+    "id": "CIT2006",
+    "nombre_asignatura": "ESTRUCTURAS DE DATOS Y ALGORITMOS"
   },
   {
-    "id": "ENF3007",
-    "nombre_asignatura": "BASES TEÓRICAS DE LA ENFERMERÍA II"
+    "id": "CIT2107",
+    "nombre_asignatura": "ELECTRÓNICA Y ELECTROTECNIA"
   },
   {
-    "id": "ENF3008",
-    "nombre_asignatura": "COMUNICACIÓN Y EDUCACIÓN EN SALUD"
+    "id": "CIT2007",
+    "nombre_asignatura": "BASES DE DATOS"
   },
   {
-    "id": "ENF3013",
-    "nombre_asignatura": "FARMACOLOGÍA EN ENFERMERÍA"
+    "id": "CIT2008",
+    "nombre_asignatura": "DESARROLLO WEB Y MÓVIL"
   },
   {
-    "id": "ENF3014",
-    "nombre_asignatura": "FISIOPATOLOGÍA EN ENFERMERÍA"
+    "id": "CIT4000",
+    "nombre_asignatura": "PRÁCTICA I"
   },
   {
-    "id": "ENF3015",
-    "nombre_asignatura": "CUIDADOS DE ENFERMERÍA II"
+    "id": "CIT2108",
+    "nombre_asignatura": "TALLER DE REDES Y SERVICIOS"
   },
   {
-    "id": "ENF3016",
-    "nombre_asignatura": "ENFERMERÍA EN SALUD MENTAL"
+    "id": "CIT2205",
+    "nombre_asignatura": "PROYECTO EN TICS I"
   },
   {
-    "id": "ENF3017",
-    "nombre_asignatura": "BIOESTADÍSTICA"
+    "id": "CIT2009",
+    "nombre_asignatura": "BASES DE DATOS AVANZADAS"
   },
   {
-    "id": "ENF3022",
-    "nombre_asignatura": "GESTIÓN DEL CUIDADO EN LA COMUNIDAD I"
+    "id": "CIT2109",
+    "nombre_asignatura": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES"
   },
   {
-    "id": "ENF3023",
-    "nombre_asignatura": "ENF. DEL ADULTO MAYOR Y PSICOGERIATRÍA"
+    "id": "CIT2110",
+    "nombre_asignatura": "SEÑALES Y SISTEMAS"
   },
   {
-    "id": "ENF3024",
-    "nombre_asignatura": "ENFERMERÍA BASADA EN EVIDENCIA"
+    "id": "CIT2010",
+    "nombre_asignatura": "SISTEMAS OPERATIVOS"
   },
   {
-    "id": "ENF3025",
-    "nombre_asignatura": "GESTIÓN Y LIDERAZGO EN ENFERMERÍA"
+    "id": "CIT2206",
+    "nombre_asignatura": "GESTIÓN ORGANIZACIONAL"
   },
   {
-    "id": "ENF3029",
-    "nombre_asignatura": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP."
+    "id": "CIT2011",
+    "nombre_asignatura": "SISTEMAS DISTRIBUIDOS"
   },
   {
-    "id": "ENF3030",
-    "nombre_asignatura": "CUID. ENFER. PERSONAS UNIDADES CRÍTICAS"
+    "id": "CIT2111",
+    "nombre_asignatura": "COMUNICACIONES DIGITALES"
   },
   {
-    "id": "ENF3031",
-    "nombre_asignatura": "METODOLOGÍAS DE LA INVESTIGACIÓN II"
+    "id": "CIT2012",
+    "nombre_asignatura": "INGENIERÍA DE SOFTWARE"
   },
   {
-    "id": "ENF3032",
-    "nombre_asignatura": "ENFERMERÍA Y MEDICINA INTEGRATIVA"
+    "id": "CII2100",
+    "nombre_asignatura": "INTRODUCCIÓN  A LA ECONOMÍA"
   },
   {
-    "id": "ENF9012",
-    "nombre_asignatura": "ENFERMERÍA EN SALUD DIGITAL"
+    "id": "CIT2112",
+    "nombre_asignatura": "TECNOLOGÍAS INALÁMBRICAS"
   },
   {
-    "id": "ENF9011",
-    "nombre_asignatura": "CUIDADOS PALIATIVOS Y FIN DE LA VIDA"
+    "id": "CIT2113",
+    "nombre_asignatura": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES"
+  },
+  {
+    "id": "CIT2013",
+    "nombre_asignatura": "INTELIGENCIA ARTIFICIAL"
+  },
+  {
+    "id": "CIT2207",
+    "nombre_asignatura": "EVALUACIÓN DE PROYECTOS TIC"
+  },
+  {
+    "id": "CIT4001",
+    "nombre_asignatura": "PRÁCTICA II"
+  },
+  {
+    "id": "CIT3100",
+    "nombre_asignatura": "ARQUITECTURAS EMERGENTES"
+  },
+  {
+    "id": "CIT3000",
+    "nombre_asignatura": "ARQUITECTURA DE SOFTWARE"
+  },
+  {
+    "id": "CIT3202",
+    "nombre_asignatura": "DATA SCIENCE"
+  },
+  {
+    "id": "CIT3203",
+    "nombre_asignatura": "PROYECTO EN TICS II"
+  },
+  {
+    "id": "CIT2114",
+    "nombre_asignatura": "REDES DE DATOS"
+  },
+  {
+    "id": "CIT3349",
+    "nombre_asignatura": "GRAFOS Y ALGORITMOS"
+  },
+  {
+    "id": "CIT3354",
+    "nombre_asignatura": "SISTEMAS DE PROCESAMIENTO PARA BIG DATA"
+  },
+  {
+    "id": "CIT3434",
+    "nombre_asignatura": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG"
+  },
+  {
+    "id": "CIT3435",
+    "nombre_asignatura": "ALGORITMOS DE RUTEO Y REDES RESILIENTES"
+  },
+  {
+    "id": "CIT3356",
+    "nombre_asignatura": "JUEGOS SERIOS"
+  },
+  {
+    "id": "CIT3358",
+    "nombre_asignatura": "BLOCKCHAIN Y ALGORITMOS DESCENTRALIZADOS"
   }
 ]
